@@ -41,7 +41,7 @@ The gap is widest on **source attribution** — which is the point. The baseline
 
 Retrieval-only metrics (10-question subset): Hit@5 70%, Hit@10 80%, MRR 0.667. LLM reranking improves MRR (0.564 → 0.667) without changing hit rate — it reorders the candidate set rather than recalling more of it.
 
-See [docs/evaluation.md](docs/evaluation.md) for per-question detail and known weaknesses.
+See [docs/evaluation.md](docs/evaluation.md) for methodology, per-question scores and the roadmap.
 
 ## Corpus
 

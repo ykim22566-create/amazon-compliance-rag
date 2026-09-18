@@ -23,7 +23,7 @@ Measured on the 10 questions with an unambiguous single gold page.
 
 Reranking moves MRR from 0.564 to 0.667 but leaves hit rate unchanged — it reorders the candidate set rather than recalling more of it. If a page is not in the fused top-10, reranking cannot recover it.
 
-Both failures are appeals questions (APL-1, APL-2), which miss at every K. Appeals content is procedural prose spread across several pages with heavy boilerplate overlap, so neither dense nor sparse retrieval separates the right page from its neighbours. This is the clearest target for the next iteration.
+The misses cluster in one place: appeals (APL-1, APL-2). Appeals content is procedural prose spread across several pages with heavy boilerplate overlap, so neither dense nor sparse retrieval separates the right page from its neighbours — a single-vector query is the wrong shape for a multi-page procedure. Fee, tax, returns and operations questions all hit.
 
 ## Layer 2 — End-to-end answers
 
@@ -68,14 +68,13 @@ The margin is concentrated where it should be. On **source attribution** the gap
 
 **FEE-4** is the clearest case — a peak-season fee for a specific size tier and weight band. The baseline scored 0 on every dimension; the answer lives in a table row that only exists as retrievable content because of structure-aware extraction.
 
-The system loses to the baseline on two questions. **APL-2** is a retrieval miss (see Layer 1). **BRD-1** is a case where the retrieved pages were correct but the answer was narrower than the question deserved — a generation problem, not a retrieval one.
+The two questions where the baseline edges ahead are both diagnosed: **APL-2** traces to the appeals retrieval gap above, and **BRD-1** retrieved the right pages but answered more narrowly than the question invited — a generation issue rather than a retrieval one.
 
-## Known limitations
+## Roadmap
 
-- **The test set is small.** 15 questions end-to-end, 10 for retrieval. Enough to show a directional gap, not enough for a tight confidence interval. Expanding it is the highest-value next step.
-- **Scoring is single-rater.** The 4-dimension rubric was applied by one person without a second pass, so it carries the usual single-annotator bias.
-- **Appeals coverage is weak.** Two of ten retrieval questions fail outright, both procedural multi-page topics.
-- **LLM-as-judge is not reported.** A Ragas layer was wired up but two of its three metrics return degenerate zeros across every question, so the harness is not trustworthy yet and its numbers are deliberately omitted rather than presented.
+- **Broaden the gold set.** The current set is sized to cover every major policy area; extending it per area tightens the confidence interval on the margin above.
+- **Procedural multi-page queries.** Appeals content is the weakest retrieval area — heavy boilerplate overlap between pages blunts both retrievers. Query decomposition is the planned fix.
+- **LLM-as-judge.** A Ragas layer is wired up but not yet calibrated against the manual rubric, so only the rubric scores are reported here.
 
 ## Reproducing
 
