@@ -70,7 +70,7 @@ pages = [
         icon="🛒",
         default=True,
     ),
-    st.Page(_page_updates, title="更新与公告", icon="🔄"),
+    st.Page(_page_updates, title="Policy Updates", icon="🔄"),
     st.Page(_page_overview, title="Overview", icon="📊"),
     st.Page(_page_data_browser, title="Data Browser", icon="🔍"),
     st.Page(_page_ingestion_manager, title="Ingestion Manager", icon="📥"),

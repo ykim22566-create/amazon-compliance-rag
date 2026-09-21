@@ -100,19 +100,35 @@ dropped.
 ./.venv/bin/python scripts/check_announcements.py
 ```
 
-Both write a report into `data/amazon/runs/`, which the dashboard's **更新与公告**
-page reads. `check_announcements.py` prints new items to stdout, so cron will
-mail them as-is:
+**Change summaries** — Amazon explains almost nothing it edits. Cross-referencing
+one window's data: of 293 pages that changed, **4** were ever mentioned on the
+announcement board. For the other 99% the seller gets a diff and no explanation,
+so each detected change is summarised from its own before/after text — including
+when the honest answer is that the edit was editorial.
+
+```bash
+./.venv/bin/python scripts/summarize_changes.py --limit 25
+```
+
+All three write reports into `data/amazon/runs/`, which the dashboard's
+**Policy Updates** page reads. `check_announcements.py` prints new items to
+stdout, so cron will mail them as-is:
 
 ```cron
 0 4 * * 1  cd /path/to/amazon-compliance-rag && ./.venv/bin/python scripts/weekly_crawl.py
 30 7 * * * cd /path/to/amazon-compliance-rag && ./.venv/bin/python scripts/check_announcements.py
 ```
 
-The announcement board is not a substitute for the sweep. Over one recent
-2.5-month window it carried 10 posts pointing at 13 help pages, while a full
-sweep over a 4.5-month window found 296 of 727 pages had changed — Amazon edits
-far more than it announces.
+The announcement board is not a substitute for the sweep, and the numbers are
+not close. Over one recent 2.5-month window it carried 10 posts — half of them
+conference promos and shipping discounts — pointing at 13 help pages in total.
+A full sweep over a 4.5-month window found 296 of 727 pages had changed, and
+only 4 of those changes had ever been announced.
+
+The board earns its place on a different axis: it is forward-looking. Eight
+pages named in announcements had not changed yet, because the posts carry future
+effective dates (`Effective November 2, 2026`). The sweep tells you what already
+moved; the board tells you what is about to.
 
 ## Running locally
 

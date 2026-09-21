@@ -1,0 +1,1010 @@
+{
+  "started_at": "2026-09-21T08:08:55.500138+00:00",
+  "finished_at": "2026-09-21T08:18:26.953210+00:00",
+  "total": 100,
+  "ingested": 4,
+  "unchanged": 90,
+  "errors": 6,
+  "outcomes": [
+    {
+      "source_id": "GJ9NNG7RK4TU6E3Z",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GJ9NNG7RK4TU6E3Z",
+      "status": "unchanged",
+      "content_hash": "6bd5b8714ed1fc969ec1061afcff90d56c670393",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 8.563139125006273,
+      "error": null
+    },
+    {
+      "source_id": "GZ5Q2VW5WF4JWRGC",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GZ5Q2VW5WF4JWRGC",
+      "status": "unchanged",
+      "content_hash": "6679dfb942f7bd0db6fec2dcc32846a7be2cc0a4",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.8819430000148714,
+      "error": null
+    },
+    {
+      "source_id": "GABBX6GZPA8MSZGW",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GABBX6GZPA8MSZGW",
+      "status": "unchanged",
+      "content_hash": "fc7d56ab3b44b9ef72948194e12055961e9cbe0b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.4761252089519985,
+      "error": null
+    },
+    {
+      "source_id": "GMUTB89XM7AATPR3",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GMUTB89XM7AATPR3",
+      "status": "unchanged",
+      "content_hash": "f15ac623db2279ce5519a1edf6a8dd6f57066365",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.37713249999797,
+      "error": null
+    },
+    {
+      "source_id": "G201411300",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201411300",
+      "status": "unchanged",
+      "content_hash": "9e8ce6224ff9fc9a9c52aaf28feeafbd1db33248",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.517476792039815,
+      "error": null
+    },
+    {
+      "source_id": "GZGEQLTM3RZXUV6T",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GZGEQLTM3RZXUV6T",
+      "status": "unchanged",
+      "content_hash": "0935f9fdd629736f6be7a285761618cb56103925",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.731967874977272,
+      "error": null
+    },
+    {
+      "source_id": "G7RGSNQFZ2BAG7K3",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G7RGSNQFZ2BAG7K3",
+      "status": "unchanged",
+      "content_hash": "d2fb54885ac6a1d29b74347eb8ac4418096e4ba6",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.1526625829865225,
+      "error": null
+    },
+    {
+      "source_id": "GLG4RQK2Y2RJADU4",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GLG4RQK2Y2RJADU4",
+      "status": "unchanged",
+      "content_hash": "4ed87f87c8c7dd660d57015482a05c632ce06edd",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.637599750014488,
+      "error": null
+    },
+    {
+      "source_id": "G202102930",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202102930",
+      "status": "unchanged",
+      "content_hash": "67bf39d5e2a2958153ffdc1e14412ad56804043d",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.9665807919809595,
+      "error": null
+    },
+    {
+      "source_id": "GXE3YGZ54YHJ6RB9",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GXE3YGZ54YHJ6RB9",
+      "status": "unchanged",
+      "content_hash": "454cb99169dab5b504c5ab429fc9037523f9ca86",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 5.008443166036159,
+      "error": null
+    },
+    {
+      "source_id": "G201844590",
+      "url": "https://sellercentral.amazon.com/gp/help/external/G201844590",
+      "status": "unchanged",
+      "content_hash": "fea44374997899b8a5fbff07139a2dc254d064f2",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.140967292012647,
+      "error": null
+    },
+    {
+      "source_id": "G4V32QUX48RL7PF5",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G4V32QUX48RL7PF5",
+      "status": "unchanged",
+      "content_hash": "672a0af5766c35780e197bcbe87d3518906a6096",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.8668327080085874,
+      "error": null
+    },
+    {
+      "source_id": "8841",
+      "url": "https://sellercentral.amazon.com/gp/help/external/8841",
+      "status": "error",
+      "content_hash": null,
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 21.713027707999572,
+      "error": "fetch: Timed out waiting for article content at https://sellercentral.amazon.com/gp/help/external/8841 (>= 200 chars)"
+    },
+    {
+      "source_id": "GZJNHR2M4GDNM3Q3",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GZJNHR2M4GDNM3Q3",
+      "status": "unchanged",
+      "content_hash": "3f57e55f9088f2313983217583661e4841e0f516",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 5.200433499994688,
+      "error": null
+    },
+    {
+      "source_id": "G200182950",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200182950",
+      "status": "unchanged",
+      "content_hash": "f597285f8f1738d33130891123220573ad2d8884",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.565563458018005,
+      "error": null
+    },
+    {
+      "source_id": "GSCMLRC972NW7RC4",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GSCMLRC972NW7RC4",
+      "status": "unchanged",
+      "content_hash": "caaa756f4052758938f587c443571096613b5d9f",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.80612512503285,
+      "error": null
+    },
+    {
+      "source_id": "GKLETRP8MLF7CVFX",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GKLETRP8MLF7CVFX",
+      "status": "unchanged",
+      "content_hash": "d8fdd53d2856373312c90585b4e9e1c1747f1642",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.512046125018969,
+      "error": null
+    },
+    {
+      "source_id": "GGQY933W4RDPJT29",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GGQY933W4RDPJT29",
+      "status": "unchanged",
+      "content_hash": "d5984be1580477a17107ed478bdd42709a69ee0e",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 5.0818034170079045,
+      "error": null
+    },
+    {
+      "source_id": "G200205250",
+      "url": "https://sellercentral.amazon.com/gp/help/external/G200205250",
+      "status": "ingested",
+      "content_hash": "0ba22893448c0c5a46253186ad00d890071281b2",
+      "chunks": 10,
+      "rows": 0,
+      "duration_s": 12.514031209051609,
+      "error": null
+    },
+    {
+      "source_id": "G202043250",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202043250",
+      "status": "unchanged",
+      "content_hash": "eab84958e9d280de54514fcf4b9480f5857ac5b2",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.086248999985401,
+      "error": null
+    },
+    {
+      "source_id": "GR786P4BPEVKTBAG",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GR786P4BPEVKTBAG",
+      "status": "ingested",
+      "content_hash": "6357305704a8aff960f4276719d26ada2a58a10d",
+      "chunks": 33,
+      "rows": 4,
+      "duration_s": 12.777943124994636,
+      "error": null
+    },
+    {
+      "source_id": "G19781",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G19781",
+      "status": "error",
+      "content_hash": null,
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 21.88534133299254,
+      "error": "fetch: Timed out waiting for article content at https://sellercentral.amazon.com/help/hub/reference/external/G19781 (>= 200 chars)"
+    },
+    {
+      "source_id": "G181",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G181",
+      "status": "unchanged",
+      "content_hash": "a843a64a5b751922a224765ef6724d00e6d1a2ad",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.184751708002295,
+      "error": null
+    },
+    {
+      "source_id": "G25771",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G25771",
+      "status": "unchanged",
+      "content_hash": "b06049c8ad6cc66ccbb79bdec0fa2bf0360f9930",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.565464959014207,
+      "error": null
+    },
+    {
+      "source_id": "202124450",
+      "url": "https://sellercentral.amazon.com/gp/help/external/202124450",
+      "status": "unchanged",
+      "content_hash": "6d24b0e1b23162ea6eb620d3fab94a0fa51d4d79",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.3278730000020005,
+      "error": null
+    },
+    {
+      "source_id": "G202131400",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202131400",
+      "status": "unchanged",
+      "content_hash": "95aef95ff2f09071a1460508a05d13942ca2e7d9",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.5794406249769963,
+      "error": null
+    },
+    {
+      "source_id": "200220550",
+      "url": "https://sellercentral.amazon.com/gp/help/external/200220550",
+      "status": "unchanged",
+      "content_hash": "77e140db9d23b8797c9c2317dd3b795f704227f3",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.901456082996447,
+      "error": null
+    },
+    {
+      "source_id": "G29QHGNFKRYT5J5N",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G29QHGNFKRYT5J5N",
+      "status": "unchanged",
+      "content_hash": "da7112923d6a780d9c7c9e3f1c7e5b7e8e93af89",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.036322416970506,
+      "error": null
+    },
+    {
+      "source_id": "G200216080",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200216080",
+      "status": "unchanged",
+      "content_hash": "3dc6e85176dc79a5c0bc876cc32a8da5daf24259",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.251505791966338,
+      "error": null
+    },
+    {
+      "source_id": "GWHNLFB8G85QAZ5W",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GWHNLFB8G85QAZ5W",
+      "status": "unchanged",
+      "content_hash": "b778e63b9e38a10eca04de36226a4f4f3ace2f91",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.870956250000745,
+      "error": null
+    },
+    {
+      "source_id": "GW2QZPWB284AMMSM",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GW2QZPWB284AMMSM",
+      "status": "unchanged",
+      "content_hash": "c0e45d601bb2ff4e1c5068fa5178027fdb771340",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.901653874956537,
+      "error": null
+    },
+    {
+      "source_id": "GC5894HL7B2AGHK2",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GC5894HL7B2AGHK2",
+      "status": "unchanged",
+      "content_hash": "94f00f10fd097285a4ea27b12bde5fba7f6d966a",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.561571541009471,
+      "error": null
+    },
+    {
+      "source_id": "G200333170",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200333170",
+      "status": "unchanged",
+      "content_hash": "8e3daab7f312b511f8f5490df0b6a98fb671e431",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.8856965000159107,
+      "error": null
+    },
+    {
+      "source_id": "G69065",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G69065",
+      "status": "error",
+      "content_hash": null,
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 21.707728958048392,
+      "error": "fetch: Timed out waiting for article content at https://sellercentral.amazon.com/help/hub/reference/external/G69065 (>= 200 chars)"
+    },
+    {
+      "source_id": "G202182410",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202182410",
+      "status": "unchanged",
+      "content_hash": "3497f5ee2b273cf47544c9b513780d27eca13c9b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.341501042013988,
+      "error": null
+    },
+    {
+      "source_id": "G2CVLYZXQRXQAMAL",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G2CVLYZXQRXQAMAL",
+      "status": "unchanged",
+      "content_hash": "2c34805e911a60364039ff2b2f240a0354e00891",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.716352665971499,
+      "error": null
+    },
+    {
+      "source_id": "200725880",
+      "url": "https://sellercentral.amazon.com/gp/help/external/200725880",
+      "status": "unchanged",
+      "content_hash": "304ee2b9c9ecf3064e2dd4e7143da90b6e573a18",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.721155292005278,
+      "error": null
+    },
+    {
+      "source_id": "G200684750",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200684750",
+      "status": "error",
+      "content_hash": null,
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 21.75748975004535,
+      "error": "fetch: Timed out waiting for article content at https://sellercentral.amazon.com/help/hub/reference/external/G200684750 (>= 200 chars)"
+    },
+    {
+      "source_id": "GYZNTFDKYWU75VZ8",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GYZNTFDKYWU75VZ8",
+      "status": "unchanged",
+      "content_hash": "cde636fbf8f0067bfaaa976e5c14f5fb9b54cd58",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.730783999955747,
+      "error": null
+    },
+    {
+      "source_id": "G200663330",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200663330",
+      "status": "unchanged",
+      "content_hash": "24182fe635a64286a1f054362676b8ee4785ef47",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.830756458977703,
+      "error": null
+    },
+    {
+      "source_id": "G201165970",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201165970",
+      "status": "unchanged",
+      "content_hash": "82b33aca6860af55769d95a8f7d5b7728fba34c2",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.9873882079846226,
+      "error": null
+    },
+    {
+      "source_id": "GUC4YPL4U5BPE7DQ",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GUC4YPL4U5BPE7DQ",
+      "status": "unchanged",
+      "content_hash": "8f8b17aa4f272816a0598ad790cc42e7996c7b2a",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 5.074253541009966,
+      "error": null
+    },
+    {
+      "source_id": "GLAQ5ETRLQ4T9D7W",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GLAQ5ETRLQ4T9D7W",
+      "status": "unchanged",
+      "content_hash": "a80e2b3dfeec23513aa2e214b4805948c873cd1b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.836228000000119,
+      "error": null
+    },
+    {
+      "source_id": "GM3JKB2JPVWPVUZC",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GM3JKB2JPVWPVUZC",
+      "status": "unchanged",
+      "content_hash": "605db0130d15294c98d8e661ccf3d2904b421c9b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.510345833026804,
+      "error": null
+    },
+    {
+      "source_id": "GKPK6UXEUARLBX9Z",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GKPK6UXEUARLBX9Z",
+      "status": "unchanged",
+      "content_hash": "1bbb2ce6a42dc0e39946089819d303ac40f31153",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.677005041972734,
+      "error": null
+    },
+    {
+      "source_id": "G201542150",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201542150",
+      "status": "unchanged",
+      "content_hash": "1e6fc685e93d64f51d0acef49d0ed53e73f2b4c8",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.584617457992863,
+      "error": null
+    },
+    {
+      "source_id": "G201750810",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201750810",
+      "status": "unchanged",
+      "content_hash": "64ec3da856e25bce83bd6937c645563bde8d2016",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.220237125002313,
+      "error": null
+    },
+    {
+      "source_id": "GMZ5WFTZHCM4Q4C5",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GMZ5WFTZHCM4Q4C5",
+      "status": "unchanged",
+      "content_hash": "ca64e50e0d6944e6678e706bb572628c3562901c",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.674824834044557,
+      "error": null
+    },
+    {
+      "source_id": "G202141920",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202141920",
+      "status": "unchanged",
+      "content_hash": "40a1e1b94b3a1c4a2b5e6fc84fa23f1283edde8b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.8706713329884224,
+      "error": null
+    },
+    {
+      "source_id": "GFFRHXRJSRGPZ9UL",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GFFRHXRJSRGPZ9UL",
+      "status": "unchanged",
+      "content_hash": "d7b6da1ebd6029d2cd9b03553ddfba1ae06471f4",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.095231209008489,
+      "error": null
+    },
+    {
+      "source_id": "G2G7KPB963EMPEYD",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G2G7KPB963EMPEYD",
+      "status": "unchanged",
+      "content_hash": "6890863339094a63e388b575510e110b7d32d46d",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.6152620000066236,
+      "error": null
+    },
+    {
+      "source_id": "G201741830",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201741830",
+      "status": "unchanged",
+      "content_hash": "b27349c8b00d10c306704fa1baf62477eb15fa22",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.247778374992777,
+      "error": null
+    },
+    {
+      "source_id": "G201760900",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201760900",
+      "status": "unchanged",
+      "content_hash": "01b3d26255db15061a9d37803244107baf3c3c23",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.6384560000151396,
+      "error": null
+    },
+    {
+      "source_id": "GHTQ5U9J25GBF5YB",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GHTQ5U9J25GBF5YB",
+      "status": "error",
+      "content_hash": null,
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 21.874472583003808,
+      "error": "fetch: Timed out waiting for article content at https://sellercentral.amazon.com/help/hub/reference/external/GHTQ5U9J25GBF5YB (>= 200 chars)"
+    },
+    {
+      "source_id": "G202087450",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202087450",
+      "status": "unchanged",
+      "content_hash": "d6bcab54df000bf34a30591922419e2853157853",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.2970644169836305,
+      "error": null
+    },
+    {
+      "source_id": "200381250",
+      "url": "https://sellercentral.amazon.com/gp/help/external/200381250",
+      "status": "unchanged",
+      "content_hash": "da4bbdd69eaea78167fade386b615b718f86fc17",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.978776875010226,
+      "error": null
+    },
+    {
+      "source_id": "G200371640",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200371640",
+      "status": "unchanged",
+      "content_hash": "94edbb09a1cc60743095554fcd820683d2b38543",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.996777750027832,
+      "error": null
+    },
+    {
+      "source_id": "G200671260",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G200671260",
+      "status": "unchanged",
+      "content_hash": "77f41fb9909bf856221b00ee4ec1678ebd7e07a6",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.229143832984846,
+      "error": null
+    },
+    {
+      "source_id": "GM9THX2S47XTGJTQ",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GM9THX2S47XTGJTQ",
+      "status": "unchanged",
+      "content_hash": "014d06bc4b5c508004ebeee4e98cfa1c5b1e2b1b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.868598166969605,
+      "error": null
+    },
+    {
+      "source_id": "200453180",
+      "url": "https://sellercentral.amazon.com/gp/help/external/200453180",
+      "status": "unchanged",
+      "content_hash": "888c91c7fb677356ca2d1b9a73efdf224c2b34a7",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.9663896250422113,
+      "error": null
+    },
+    {
+      "source_id": "G201104750",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201104750",
+      "status": "ingested",
+      "content_hash": "6051888bd3e5675362f7c57acd4cdf5cf70090d3",
+      "chunks": 11,
+      "rows": 0,
+      "duration_s": 12.743913792015519,
+      "error": null
+    },
+    {
+      "source_id": "G201062890",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201062890",
+      "status": "unchanged",
+      "content_hash": "33da5da99e05407bcdf9062fe3ab7b04a022b46b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.587514957995154,
+      "error": null
+    },
+    {
+      "source_id": "G201835090",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201835090",
+      "status": "unchanged",
+      "content_hash": "7bf9e46dcb8d2fe66df1d31800193977bc84b85b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.488723125017714,
+      "error": null
+    },
+    {
+      "source_id": "GNGMMFQ5FPLJFBJP",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GNGMMFQ5FPLJFBJP",
+      "status": "unchanged",
+      "content_hash": "242aa8b3c662eb35524f998a2d8fd9b88116d86d",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.247001458017621,
+      "error": null
+    },
+    {
+      "source_id": "G201817280",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201817280",
+      "status": "unchanged",
+      "content_hash": "3ae235cafdc5f7fb0332c311419256b2a39f10b7",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 5.046008874953259,
+      "error": null
+    },
+    {
+      "source_id": "G201814220",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201814220",
+      "status": "unchanged",
+      "content_hash": "91dd590155d88669b4adae7935c376932bce256c",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.422544041997753,
+      "error": null
+    },
+    {
+      "source_id": "G897CPXT2RGBG3HV",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G897CPXT2RGBG3HV",
+      "status": "unchanged",
+      "content_hash": "36e8f9e81d7d26bb52b1c24b274e7f4acec89f9b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.197948999993969,
+      "error": null
+    },
+    {
+      "source_id": "G201817290",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201817290",
+      "status": "unchanged",
+      "content_hash": "32a25ce93d428302b315b00d5d23cc8169142686",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 5.027694791962858,
+      "error": null
+    },
+    {
+      "source_id": "G201817090",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201817090",
+      "status": "unchanged",
+      "content_hash": "e2510842faeff697e3e07e3bffc078a33da81210",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.0054366670083255,
+      "error": null
+    },
+    {
+      "source_id": "GMULTR2SMZ6WWX57",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GMULTR2SMZ6WWX57",
+      "status": "unchanged",
+      "content_hash": "d4b34497e02773b5d08e6fcf37a5ea687288555a",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.84003008302534,
+      "error": null
+    },
+    {
+      "source_id": "GLB92H2ZXTHU95HH",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GLB92H2ZXTHU95HH",
+      "status": "unchanged",
+      "content_hash": "e6f72515e40f12b5762a8e890ae519333f7a3230",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.361932375002652,
+      "error": null
+    },
+    {
+      "source_id": "GDXETMKWXXA5T48L",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GDXETMKWXXA5T48L",
+      "status": "unchanged",
+      "content_hash": "884d08a84be794616eda6f62d793c9583ac00113",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.782652209047228,
+      "error": null
+    },
+    {
+      "source_id": "GAXRKKBPHJZD93MS",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GAXRKKBPHJZD93MS",
+      "status": "unchanged",
+      "content_hash": "98d44c078397a74fcac4a2aa78550b135240b462",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.9223699580179527,
+      "error": null
+    },
+    {
+      "source_id": "G5TUVJKZHUVMN77V",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G5TUVJKZHUVMN77V",
+      "status": "unchanged",
+      "content_hash": "e908295aec2d98cf6d3bcb68a1c4b83c831639e5",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.7914124999661,
+      "error": null
+    },
+    {
+      "source_id": "G201394090",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201394090",
+      "status": "unchanged",
+      "content_hash": "582620037844cb3dd4c0d7195b0af692360fc45b",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.617677208967507,
+      "error": null
+    },
+    {
+      "source_id": "GHLYT4TPVCY2MJE3",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GHLYT4TPVCY2MJE3",
+      "status": "unchanged",
+      "content_hash": "88d991d9ebb7b13f57b2106a6f83c87704abe751",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.682545791962184,
+      "error": null
+    },
+    {
+      "source_id": "GUUS7TA8M9Z95P3R",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GUUS7TA8M9Z95P3R",
+      "status": "unchanged",
+      "content_hash": "835a5d5c25e19278354e15b4d01021e2e7f1d709",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.9076495420304127,
+      "error": null
+    },
+    {
+      "source_id": "G201119120",
+      "url": "https://sellercentral.amazon.com/gp/help/external/G201119120",
+      "status": "ingested",
+      "content_hash": "3d6ee91eaa7a486c6962f23c15db161803535fa4",
+      "chunks": 27,
+      "rows": 0,
+      "duration_s": 13.241531958046835,
+      "error": null
+    },
+    {
+      "source_id": "GK4MGCBF7LJYKGQM",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GK4MGCBF7LJYKGQM",
+      "status": "unchanged",
+      "content_hash": "ac1546a41593b16251243905dd2e80a953dc8597",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.5444137080339715,
+      "error": null
+    },
+    {
+      "source_id": "G201648580",
+      "url": "https://sellercentral.amazon.com/gp/help/external/G201648580",
+      "status": "unchanged",
+      "content_hash": "72c7ae2459ffc1933dc346041689bbc4551a0772",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.671127709036227,
+      "error": null
+    },
+    {
+      "source_id": "GZZVY5QX4DZHWHSW",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GZZVY5QX4DZHWHSW",
+      "status": "unchanged",
+      "content_hash": "37cf25c9f6c93736dfd03755ffa679a0a38e866c",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.756122125021648,
+      "error": null
+    },
+    {
+      "source_id": "G202190320",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202190320",
+      "status": "unchanged",
+      "content_hash": "139af70c4ef34fe831c765150a088fd88921c537",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.390332875016611,
+      "error": null
+    },
+    {
+      "source_id": "GS6TQLG64JYD4LSY",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GS6TQLG64JYD4LSY",
+      "status": "unchanged",
+      "content_hash": "178855f2403046850148633362fdba56c4ee5316",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.993394375022035,
+      "error": null
+    },
+    {
+      "source_id": "G1791",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G1791",
+      "status": "unchanged",
+      "content_hash": "a95c30e724918114df74f3e41672d7d27da5ece0",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.170344540965743,
+      "error": null
+    },
+    {
+      "source_id": "G9GPDWV663AD4USD",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G9GPDWV663AD4USD",
+      "status": "unchanged",
+      "content_hash": "774e78ecf724c26720816a3c89de8d889d5bcede",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.066044667037204,
+      "error": null
+    },
+    {
+      "source_id": "GWSP3EWC23QNNEA2",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GWSP3EWC23QNNEA2",
+      "status": "unchanged",
+      "content_hash": "a07eda7785f9db896b5bc331d40eb3243781a558",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.9763520839624107,
+      "error": null
+    },
+    {
+      "source_id": "G3MB5C56WDZZXHBG",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G3MB5C56WDZZXHBG",
+      "status": "unchanged",
+      "content_hash": "ddb25005141574cca89d74251fce2f004862c361",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.158585291996133,
+      "error": null
+    },
+    {
+      "source_id": "G92T8UV339NZ98TN",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G92T8UV339NZ98TN",
+      "status": "unchanged",
+      "content_hash": "bb9cdd14d334d148935c627bfa91884f2daf94c5",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.611718165979255,
+      "error": null
+    },
+    {
+      "source_id": "GF6ZC8VEBM7HCEGV",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GF6ZC8VEBM7HCEGV",
+      "status": "unchanged",
+      "content_hash": "c9696caf9f139c62ce6523d6638f123dd08c8be8",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.381895792030264,
+      "error": null
+    },
+    {
+      "source_id": "GHV89YC29VWN6SBM",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GHV89YC29VWN6SBM",
+      "status": "unchanged",
+      "content_hash": "e2574a2ba1d819a13e188f1fbd09df44234f9b0f",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.000678999989759,
+      "error": null
+    },
+    {
+      "source_id": "G3SLKVSKAAU7TSBV",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G3SLKVSKAAU7TSBV",
+      "status": "unchanged",
+      "content_hash": "3c21d0d52e885aa02a278a4a39fa7339ca99eea6",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.988536834018305,
+      "error": null
+    },
+    {
+      "source_id": "G202043110",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202043110",
+      "status": "error",
+      "content_hash": null,
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 21.342539459001273,
+      "error": "fetch: Timed out waiting for article content at https://sellercentral.amazon.com/help/hub/reference/external/G202043110 (>= 200 chars)"
+    },
+    {
+      "source_id": "G202170370",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G202170370",
+      "status": "unchanged",
+      "content_hash": "59e352ea11dc1e792c9020463999177507024fd5",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.767756292014383,
+      "error": null
+    },
+    {
+      "source_id": "G60951",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G60951",
+      "status": "unchanged",
+      "content_hash": "dffe61db2b0a264b1605d7dee3396d55d00a0c5a",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 3.8072427909937687,
+      "error": null
+    },
+    {
+      "source_id": "GF6B8ZPNY2AP72VV",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/GF6B8ZPNY2AP72VV",
+      "status": "unchanged",
+      "content_hash": "c250e30bd196e92b2a609932110ac29a648f9dd4",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.261881249956787,
+      "error": null
+    },
+    {
+      "source_id": "200453120",
+      "url": "https://sellercentral.amazon.com/gp/help/external/200453120",
+      "status": "unchanged",
+      "content_hash": "cc8df5c73503a66f76adc6cd1fb4fca442755e77",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.100604832987301,
+      "error": null
+    },
+    {
+      "source_id": "G201972720",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G201972720",
+      "status": "unchanged",
+      "content_hash": "09cdfc09f3e2ff63081fe78b68b80283158165dd",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.91933262499515,
+      "error": null
+    },
+    {
+      "source_id": "G46WGRPY3HXUFZNG",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G46WGRPY3HXUFZNG",
+      "status": "unchanged",
+      "content_hash": "ec03ea4a03ca40bc5b93667c43568da7e99fe73e",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.544736250012647,
+      "error": null
+    },
+    {
+      "source_id": "G27951",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G27951",
+      "status": "unchanged",
+      "content_hash": "6b5c624401a2c295c051aa681e79bc9cd62a98db",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.737747584003955,
+      "error": null
+    },
+    {
+      "source_id": "G4HMNBYXD3FVP7QJ",
+      "url": "https://sellercentral.amazon.com/help/hub/reference/external/G4HMNBYXD3FVP7QJ",
+      "status": "unchanged",
+      "content_hash": "c04463dbd26ec492b3f25922f64062b221cb45cf",
+      "chunks": 0,
+      "rows": 0,
+      "duration_s": 4.627224541967735,
+      "error": null
+    }
+  ]
+}
