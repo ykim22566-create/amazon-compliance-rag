@@ -77,6 +77,43 @@ Add to your Claude Desktop config:
 
 Then ask Claude about Amazon fees and it will retrieve from the corpus rather than guess.
 
+## Keeping the corpus current
+
+Two jobs on different cadences, because they answer different questions.
+
+**Weekly sweep** — re-renders every source and compares a normalized content
+hash against the last one seen. Only pages that actually moved are re-chunked
+and re-embedded, so a full sweep of 727 pages costs a crawl but almost no
+embedding: in a recent run 10 of 10 sampled pages came back unchanged and made
+zero embedding calls.
+
+```bash
+./.venv/bin/python scripts/weekly_crawl.py
+```
+
+**Daily announcement check** — reads Seller Central's announcement board, which
+is server-rendered, so this needs no browser and takes seconds. Items that link
+to no help page (conference promos, shipping discounts) are labelled rather than
+dropped.
+
+```bash
+./.venv/bin/python scripts/check_announcements.py
+```
+
+Both write a report into `data/amazon/runs/`, which the dashboard's **更新与公告**
+page reads. `check_announcements.py` prints new items to stdout, so cron will
+mail them as-is:
+
+```cron
+0 4 * * 1  cd /path/to/amazon-compliance-rag && ./.venv/bin/python scripts/weekly_crawl.py
+30 7 * * * cd /path/to/amazon-compliance-rag && ./.venv/bin/python scripts/check_announcements.py
+```
+
+The announcement board is not a substitute for the sweep. Over one recent
+2.5-month window it carried 10 posts pointing at 13 help pages, while a full
+sweep over a 4.5-month window found 296 of 727 pages had changed — Amazon edits
+far more than it announces.
+
 ## Running locally
 
 The corpus (Chroma + BM25 index) ships with the repo through Git LFS, so install

@@ -26,6 +26,11 @@ def _page_amazon_compliance() -> None:
     render()
 
 
+def _page_updates() -> None:
+    from src.observability.dashboard.pages.updates import render
+    render()
+
+
 def _page_overview() -> None:
     from src.observability.dashboard.pages.overview import render
     render()
@@ -65,6 +70,7 @@ pages = [
         icon="🛒",
         default=True,
     ),
+    st.Page(_page_updates, title="更新与公告", icon="🔄"),
     st.Page(_page_overview, title="Overview", icon="📊"),
     st.Page(_page_data_browser, title="Data Browser", icon="🔍"),
     st.Page(_page_ingestion_manager, title="Ingestion Manager", icon="📥"),

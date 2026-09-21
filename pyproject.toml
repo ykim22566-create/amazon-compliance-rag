@@ -27,7 +27,9 @@ dependencies = [
     "pyyaml>=6.0",
     "langchain-text-splitters>=0.3.0",
     "chromadb>=0.4.0",
-    "mcp>=1.0.0",
+    # The 2.x SDK renamed the Server decorators (list_tools/call_tool) and
+    # the Tool/CallToolResult field names; protocol_handler.py targets 1.x.
+    "mcp>=1.0,<2",
     "jieba>=0.42",
     "markitdown[pdf]>=0.1.0",
     "pdfplumber>=0.11.0",
@@ -35,6 +37,9 @@ dependencies = [
     "streamlit>=1.30.0",
     "ragas>=0.1.0",
     "datasets>=2.0.0",
+    "beautifulsoup4>=4.12",
+    "selenium>=4.20",
+    "webdriver-manager>=4.0",
 ]
 
 [project.optional-dependencies]

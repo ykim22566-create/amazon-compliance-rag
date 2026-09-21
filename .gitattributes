@@ -1,3 +1,5 @@
+# Only the large index artifacts belong in LFS. The small operational
+# databases (change log, news store) change on every run, so keeping them
+# as ordinary blobs avoids a new LFS object per update.
 data/db/chroma/** filter=lfs diff=lfs merge=lfs -text
 data/db/bm25/**   filter=lfs diff=lfs merge=lfs -text
-*.sqlite3         filter=lfs diff=lfs merge=lfs -text

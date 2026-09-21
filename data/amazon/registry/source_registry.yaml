@@ -1,0 +1,2185 @@
+schema_version: 1
+description: Amazon Seller Central compliance pages, seeded from legacy MD library 2025-12 crawl.
+total_sources: 727
+sources:
+- source_id: GJ9NNG7RK4TU6E3Z
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJ9NNG7RK4TU6E3Z
+  legacy_md_filename: 2024 FBA monthly inventory storage fee and aged inventory surcharge changes.md
+- source_id: GZ5Q2VW5WF4JWRGC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZ5Q2VW5WF4JWRGC
+  legacy_md_filename: 2026 FBA removal disposal and liquidation order fee changes.md
+- source_id: GABBX6GZPA8MSZGW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GABBX6GZPA8MSZGW
+  legacy_md_filename: 2026 US FBA fulfillment fee changes.md
+- source_id: GMUTB89XM7AATPR3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMUTB89XM7AATPR3
+  legacy_md_filename: 2026 US Low Price FBA fulfillment fee.md
+- source_id: G201411300
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201411300
+  legacy_md_filename: 2026 US Referral and FBA fee changes summary.md
+- source_id: GZGEQLTM3RZXUV6T
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZGEQLTM3RZXUV6T
+  legacy_md_filename: 2026 returns processing fee changes.md
+- source_id: G7RGSNQFZ2BAG7K3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7RGSNQFZ2BAG7K3
+  legacy_md_filename: 3D model technical requirements.md
+- source_id: GLG4RQK2Y2RJADU4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLG4RQK2Y2RJADU4
+  legacy_md_filename: A Content guide.md
+- source_id: G202102930
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202102930
+  legacy_md_filename: A content.md
+- source_id: GXE3YGZ54YHJ6RB9
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GXE3YGZ54YHJ6RB9
+  legacy_md_filename: AMAZON AUTOS TERMS AND CONDITIONS.md
+- source_id: G201844590
+  url: https://sellercentral.amazon.com/gp/help/external/G201844590
+  legacy_md_filename: ASIN creation policy.md
+- source_id: G4V32QUX48RL7PF5
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4V32QUX48RL7PF5
+  legacy_md_filename: About FSAHSA accounts and product eligibility.md
+- source_id: '8841'
+  url: https://sellercentral.amazon.com/gp/help/external/8841
+  legacy_md_filename: About parentchild relationships.md
+- source_id: GZJNHR2M4GDNM3Q3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZJNHR2M4GDNM3Q3
+  legacy_md_filename: About product documents.md
+- source_id: G200182950
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200182950
+  legacy_md_filename: About products and listings.md
+- source_id: GSCMLRC972NW7RC4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSCMLRC972NW7RC4
+  legacy_md_filename: About the Seller Central homepage.md
+- source_id: GKLETRP8MLF7CVFX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKLETRP8MLF7CVFX
+  legacy_md_filename: Acceptable bank accounts and payment service providers.md
+- source_id: GGQY933W4RDPJT29
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGQY933W4RDPJT29
+  legacy_md_filename: Account Health Assurance Frequently asked questions.md
+- source_id: G200205250
+  url: https://sellercentral.amazon.com/gp/help/external/G200205250
+  legacy_md_filename: Account Health Rating program policy.md
+- source_id: G202043250
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202043250
+  legacy_md_filename: Account Management and Performance Targets for Services.md
+- source_id: GR786P4BPEVKTBAG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GR786P4BPEVKTBAG
+  legacy_md_filename: Account health rating.md
+- source_id: G19781
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G19781
+  legacy_md_filename: Account settings FAQ.md
+- source_id: G181
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G181
+  legacy_md_filename: Account settings.md
+- source_id: G25771
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G25771
+  legacy_md_filename: Accurately classifying your products.md
+- source_id: '202124450'
+  url: https://sellercentral.amazon.com/gp/help/external/202124450
+  legacy_md_filename: Activate custom BMVD shipping rates.md
+- source_id: G202131400
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202131400
+  legacy_md_filename: Add delete and verify your credit or debit card information.md
+- source_id: '200220550'
+  url: https://sellercentral.amazon.com/gp/help/external/200220550
+  legacy_md_filename: Add one product at a time.md
+- source_id: G29QHGNFKRYT5J5N
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G29QHGNFKRYT5J5N
+  legacy_md_filename: Add permissions for FBA dashboard and FBA Analytics.md
+- source_id: G200216080
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200216080
+  legacy_md_filename: Add product images and video.md
+- source_id: GWHNLFB8G85QAZ5W
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWHNLFB8G85QAZ5W
+  legacy_md_filename: Add update view and verify your bank account information.md
+- source_id: GW2QZPWB284AMMSM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GW2QZPWB284AMMSM
+  legacy_md_filename: Adding more than one bank account.md
+- source_id: GC5894HL7B2AGHK2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GC5894HL7B2AGHK2
+  legacy_md_filename: Additional Inventory Management Tasks.md
+- source_id: G200333170
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200333170
+  legacy_md_filename: Additional category guidelines.md
+- source_id: G69065
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69065
+  legacy_md_filename: Additional tips for increasing sales.md
+- source_id: G202182410
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202182410
+  legacy_md_filename: Addon program.md
+- source_id: G2CVLYZXQRXQAMAL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2CVLYZXQRXQAMAL
+  legacy_md_filename: Address verification.md
+- source_id: '200725880'
+  url: https://sellercentral.amazon.com/gp/help/external/200725880
+  legacy_md_filename: Aged inventory surcharge report.md
+- source_id: G200684750
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200684750
+  legacy_md_filename: Aged inventory surcharge.md
+- source_id: GYZNTFDKYWU75VZ8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYZNTFDKYWU75VZ8
+  legacy_md_filename: AllOffers Display.md
+- source_id: G200663330
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200663330
+  legacy_md_filename: Amazon Ads account and campaigns.md
+- source_id: G201165970
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201165970
+  legacy_md_filename: Amazon AntiCounterfeiting Policy.md
+- source_id: GUC4YPL4U5BPE7DQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUC4YPL4U5BPE7DQ
+  legacy_md_filename: Amazon Autos Dealer Requirements.md
+- source_id: GLAQ5ETRLQ4T9D7W
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLAQ5ETRLQ4T9D7W
+  legacy_md_filename: Amazon Autos.md
+- source_id: GM3JKB2JPVWPVUZC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM3JKB2JPVWPVUZC
+  legacy_md_filename: Amazon Brand Analytics Terms and Conditions.md
+- source_id: GKPK6UXEUARLBX9Z
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKPK6UXEUARLBX9Z
+  legacy_md_filename: Amazon Brand Referral Bonus Terms and Conditions.md
+- source_id: G201542150
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201542150
+  legacy_md_filename: Amazon Business B2B.md
+- source_id: G201750810
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201750810
+  legacy_md_filename: Amazon Business FAQ.md
+- source_id: GMZ5WFTZHCM4Q4C5
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMZ5WFTZHCM4Q4C5
+  legacy_md_filename: Amazon Business FBA multiunit fulfillment fee discount.md
+- source_id: G202141920
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202141920
+  legacy_md_filename: Amazon Business Metrics.md
+- source_id: GFFRHXRJSRGPZ9UL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFFRHXRJSRGPZ9UL
+  legacy_md_filename: Amazon Business Professional Healthcare program.md
+- source_id: G2G7KPB963EMPEYD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2G7KPB963EMPEYD
+  legacy_md_filename: Amazon Business bulk order fee discount.md
+- source_id: G201741830
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201741830
+  legacy_md_filename: Amazon Business features.md
+- source_id: G201760900
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201760900
+  legacy_md_filename: Amazon Business glossary.md
+- source_id: GHTQ5U9J25GBF5YB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHTQ5U9J25GBF5YB
+  legacy_md_filename: Amazon Business invoicing policy.md
+- source_id: G202087450
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202087450
+  legacy_md_filename: Amazon Business terms.md
+- source_id: '200381250'
+  url: https://sellercentral.amazon.com/gp/help/external/200381250
+  legacy_md_filename: Amazon Currency Converter for Sellers ACCS FAQ.md
+- source_id: G200371640
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200371640
+  legacy_md_filename: Amazon Currency Converter for Sellers Terms and Conditions.md
+- source_id: G200671260
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200671260
+  legacy_md_filename: Amazon EU and UK stores.md
+- source_id: GM9THX2S47XTGJTQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM9THX2S47XTGJTQ
+  legacy_md_filename: Amazon Freight LTL shipping service.md
+- source_id: '200453180'
+  url: https://sellercentral.amazon.com/gp/help/external/200453180
+  legacy_md_filename: Amazon Fulfilled Inventory report.md
+- source_id: G201104750
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201104750
+  legacy_md_filename: Amazon Fulfillment Reports.md
+- source_id: G201062890
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201062890
+  legacy_md_filename: Amazon Global Selling.md
+- source_id: G201835090
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201835090
+  legacy_md_filename: Amazon Handmade Best practices for fulfilling orders.md
+- source_id: GNGMMFQ5FPLJFBJP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GNGMMFQ5FPLJFBJP
+  legacy_md_filename: Amazon Handmade Category listing policies  requirements.md
+- source_id: G201817280
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201817280
+  legacy_md_filename: Amazon Handmade List your products.md
+- source_id: G201814220
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201814220
+  legacy_md_filename: Amazon Handmade Referral fees.md
+- source_id: G897CPXT2RGBG3HV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G897CPXT2RGBG3HV
+  legacy_md_filename: Amazon Handmade catalog reclassification project.md
+- source_id: G201817290
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201817290
+  legacy_md_filename: Amazon Handmade terms and conditions.md
+- source_id: G201817090
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201817090
+  legacy_md_filename: Amazon Handmade.md
+- source_id: GMULTR2SMZ6WWX57
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMULTR2SMZ6WWX57
+  legacy_md_filename: Amazon Haul.md
+- source_id: GLB92H2ZXTHU95HH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLB92H2ZXTHU95HH
+  legacy_md_filename: Amazon Imaging Services Terms and Conditions.md
+- source_id: GDXETMKWXXA5T48L
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDXETMKWXXA5T48L
+  legacy_md_filename: Amazon Incentives.md
+- source_id: GAXRKKBPHJZD93MS
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GAXRKKBPHJZD93MS
+  legacy_md_filename: Amazon Luxury program terms.md
+- source_id: G5TUVJKZHUVMN77V
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5TUVJKZHUVMN77V
+  legacy_md_filename: Amazon Marketplace Fair Pricing Policy.md
+- source_id: G201394090
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201394090
+  legacy_md_filename: Amazon North American and Brazil stores.md
+- source_id: GHLYT4TPVCY2MJE3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHLYT4TPVCY2MJE3
+  legacy_md_filename: Amazon Outlet.md
+- source_id: GUUS7TA8M9Z95P3R
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUUS7TA8M9Z95P3R
+  legacy_md_filename: Amazon Partner Carrier freight class.md
+- source_id: G201119120
+  url: https://sellercentral.amazon.com/gp/help/external/G201119120
+  legacy_md_filename: Amazon Partnered Carrier program.md
+- source_id: GK4MGCBF7LJYKGQM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GK4MGCBF7LJYKGQM
+  legacy_md_filename: Amazon Product Support.md
+- source_id: G201648580
+  url: https://sellercentral.amazon.com/gp/help/external/G201648580
+  legacy_md_filename: Amazon Renewed for United States.md
+- source_id: GZZVY5QX4DZHWHSW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZZVY5QX4DZHWHSW
+  legacy_md_filename: Amazon Renewed program policies.md
+- source_id: G202190320
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202190320
+  legacy_md_filename: Amazon Renewed quality.md
+- source_id: GS6TQLG64JYD4LSY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GS6TQLG64JYD4LSY
+  legacy_md_filename: Amazon Search.md
+- source_id: G1791
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G1791
+  legacy_md_filename: Amazon Services Business Solutions Agreement.md
+- source_id: G9GPDWV663AD4USD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9GPDWV663AD4USD
+  legacy_md_filename: Amazon Services Provider  Program Policies.md
+- source_id: GWSP3EWC23QNNEA2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWSP3EWC23QNNEA2
+  legacy_md_filename: Amazon Stolen Goods Policy.md
+- source_id: G3MB5C56WDZZXHBG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3MB5C56WDZZXHBG
+  legacy_md_filename: Amazon Vine Terms and Conditions.md
+- source_id: G92T8UV339NZ98TN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G92T8UV339NZ98TN
+  legacy_md_filename: Amazon Vine.md
+- source_id: GF6ZC8VEBM7HCEGV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GF6ZC8VEBM7HCEGV
+  legacy_md_filename: Amazon Warehousing and Distribution AWD.md
+- source_id: GHV89YC29VWN6SBM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHV89YC29VWN6SBM
+  legacy_md_filename: Amazon Warehousing and Distribution terms and conditions.md
+- source_id: G3SLKVSKAAU7TSBV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3SLKVSKAAU7TSBV
+  legacy_md_filename: Amazon autos return policy.md
+- source_id: G202043110
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202043110
+  legacy_md_filename: Amazon deals.md
+- source_id: G202170370
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202170370
+  legacy_md_filename: Amazon policy on reference prices.md
+- source_id: G60951
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G60951
+  legacy_md_filename: Amazon promotions.md
+- source_id: GF6B8ZPNY2AP72VV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GF6B8ZPNY2AP72VV
+  legacy_md_filename: Amazon search glossary.md
+- source_id: '200453120'
+  url: https://sellercentral.amazon.com/gp/help/external/200453120
+  legacy_md_filename: AmazonFulfilled Shipments Report.md
+- source_id: G201972720
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201972720
+  legacy_md_filename: Amazonfulfilled inventory.md
+- source_id: G46WGRPY3HXUFZNG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G46WGRPY3HXUFZNG
+  legacy_md_filename: Amazonfunded fee discounts.md
+- source_id: G27951
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G27951
+  legacy_md_filename: Amazons Atoz Guarantee claims.md
+- source_id: G4HMNBYXD3FVP7QJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4HMNBYXD3FVP7QJ
+  legacy_md_filename: Apollo and Athena pilot programs terms and conditions.md
+- source_id: GM6YJ5XPA58U99XM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM6YJ5XPA58U99XM
+  legacy_md_filename: Apparel Product Listing Experience.md
+- source_id: G202041210
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202041210
+  legacy_md_filename: Appeal an Atoz Guarantee claim.md
+- source_id: '200370560'
+  url: https://sellercentral.amazon.com/gp/help/external/200370560
+  legacy_md_filename: Appeal an account deactivation or listing removal.md
+- source_id: GTY6NYZDFD5CENYH
+  url: https://sellercentral.amazon.com/gp/help/external/GTY6NYZDFD5CENYH
+  legacy_md_filename: Atoz Claims Process for Property Damage and Personal Injury.md
+- source_id: GBWHYLJ7NNQMXBAQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBWHYLJ7NNQMXBAQ
+  legacy_md_filename: Attributes guide.md
+- source_id: G202146000
+  url: https://sellercentral.amazon.com/gp/help/external/G202146000
+  legacy_md_filename: Australia Goods and Services Tax GST.md
+- source_id: G9DH343PLXALFTUW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9DH343PLXALFTUW
+  legacy_md_filename: Authorize a return request.md
+- source_id: G201994820
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201994820
+  legacy_md_filename: Automate Pricing.md
+- source_id: G44051
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G44051
+  legacy_md_filename: Automotive  Powersports Part Finder and Fitment Data.md
+- source_id: G202161480
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202161480
+  legacy_md_filename: B2B Central.md
+- source_id: GG6RSFHJVGD653MV
+  url: https://sellercentral.amazon.com/gp/help/external/GG6RSFHJVGD653MV
+  legacy_md_filename: B2B product opportunities.md
+- source_id: G19791
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G19791
+  legacy_md_filename: Bank account and credit or debit card information for your seller account.md
+- source_id: GGKVGCXWFNWPQECK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGKVGCXWFNWPQECK
+  legacy_md_filename: Bank account management Support FAQ.md
+- source_id: G201687550
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201687550
+  legacy_md_filename: Becoming the Featured Offer.md
+- source_id: GCH5XL78M62CU8TL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GCH5XL78M62CU8TL
+  legacy_md_filename: Beta Disburse Funds to your Gift Card to shop on Amazoncom.md
+- source_id: GBYJYA8MG6FV4XYC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBYJYA8MG6FV4XYC
+  legacy_md_filename: BlackOwned Business badge.md
+- source_id: GL9HPJ34VBFP76HX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GL9HPJ34VBFP76HX
+  legacy_md_filename: Brand Referral Bonus.md
+- source_id: GFM3F4GG5EYCC5XC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFM3F4GG5EYCC5XC
+  legacy_md_filename: Brand Tailored promotions.md
+- source_id: GRZ98MCDWLNVENBC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GRZ98MCDWLNVENBC
+  legacy_md_filename: Brazil Tax and Regulatory Considerations.md
+- source_id: G202121570
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202121570
+  legacy_md_filename: Build International Listings.md
+- source_id: G581
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G581
+  legacy_md_filename: Build your inventory file.md
+- source_id: '201968550'
+  url: https://sellercentral.amazon.com/gp/help/external/201968550
+  legacy_md_filename: Bulk Fix Stranded Inventory Report.md
+- source_id: GX5L8BF8GLMML6CX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GX5L8BF8GLMML6CX
+  legacy_md_filename: Bullet points guidelines.md
+- source_id: GZK9RLHFV3K442KH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZK9RLHFV3K442KH
+  legacy_md_filename: Business Blue Savings Badge.md
+- source_id: GRG94ATAYVWUZ5L4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GRG94ATAYVWUZ5L4
+  legacy_md_filename: Business goal creation.md
+- source_id: GEANBS97BNTWSBJB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GEANBS97BNTWSBJB
+  legacy_md_filename: Business planner overview.md
+- source_id: '201740300'
+  url: https://sellercentral.amazon.com/gp/help/external/201740300
+  legacy_md_filename: Business prices and quantity discounts.md
+- source_id: '201740310'
+  url: https://sellercentral.amazon.com/gp/help/external/201740310
+  legacy_md_filename: BusinessOnly Offers.md
+- source_id: '201958670'
+  url: https://sellercentral.amazon.com/gp/help/external/201958670
+  legacy_md_filename: BusinessOnly Selection.md
+- source_id: G202168950
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202168950
+  legacy_md_filename: Buy shipping in bulk.md
+- source_id: '200202280'
+  url: https://sellercentral.amazon.com/gp/help/external/200202280
+  legacy_md_filename: Buy shipping through Seller Central.md
+- source_id: '201950090'
+  url: https://sellercentral.amazon.com/gp/help/external/201950090
+  legacy_md_filename: Buy shipping using the API.md
+- source_id: G201109160
+  url: https://sellercentral.amazon.com/gp/help/external/G201109160
+  legacy_md_filename: BuyerSeller Messaging templates.md
+- source_id: GGLKLPJ5DCN6CMLW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGLKLPJ5DCN6CMLW
+  legacy_md_filename: COVID19 infection control and recovery.md
+- source_id: G20231
+  url: https://sellercentral.amazon.com/gp/help/external/G20231
+  legacy_md_filename: Can Amazon remove buyer feedback.md
+- source_id: G6JPYHKCN4YG943H
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G6JPYHKCN4YG943H
+  legacy_md_filename: Canada Digital Tax Reporting.md
+- source_id: G201468400
+  url: https://sellercentral.amazon.com/gp/help/external/G201468400
+  legacy_md_filename: Canada tax and regulatory considerations.md
+- source_id: G201576510
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201576510
+  legacy_md_filename: Cancel Multiple Orders with the Order Cancellation Template.md
+- source_id: G200285210
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200285210
+  legacy_md_filename: Cancellation rate.md
+- source_id: GBN4AZVWUS29ZUJX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBN4AZVWUS29ZUJX
+  legacy_md_filename: Cancellations.md
+- source_id: GM6SJGQDA625AUCJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM6SJGQDA625AUCJ
+  legacy_md_filename: Capacity Manager.md
+- source_id: '200978420'
+  url: https://sellercentral.amazon.com/gp/help/external/200978420
+  legacy_md_filename: Carrier requirements for delivering shipments.md
+- source_id: G202078860
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202078860
+  legacy_md_filename: Catalog and drafts.md
+- source_id: G200333160
+  url: https://sellercentral.amazon.com/gp/help/external/G200333160
+  legacy_md_filename: Categories and products that require approval.md
+- source_id: '201450260'
+  url: https://sellercentral.amazon.com/help/hub/reference/external/201450260
+  legacy_md_filename: Categorization of Fine vs Fashion Jewelry.md
+- source_id: G200301050
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200301050
+  legacy_md_filename: Category product and listing restrictions.md
+- source_id: GR72LTU4JDT7G25L
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GR72LTU4JDT7G25L
+  legacy_md_filename: Change a listing to Fulfilled by Amazon.md
+- source_id: G201950630
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201950630
+  legacy_md_filename: Change a products category or browse path.md
+- source_id: G831
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G831
+  legacy_md_filename: Change login settings.md
+- source_id: G201975730
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201975730
+  legacy_md_filename: Change your business address.md
+- source_id: G47071
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G47071
+  legacy_md_filename: Changes to the Amazon Services Business Solutions Agreement.md
+- source_id: GKJRA3FRPRKVBJJS
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKJRA3FRPRKVBJJS
+  legacy_md_filename: Childrens toys.md
+- source_id: G1661
+  url: https://sellercentral.amazon.com/gp/help/external/G1661
+  legacy_md_filename: Classify your products using Browse Tree Guides  BTG.md
+- source_id: G23531
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G23531
+  legacy_md_filename: Classify your products.md
+- source_id: GDJZDBNYUAS8C7QB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDJZDBNYUAS8C7QB
+  legacy_md_filename: Close a listing.md
+- source_id: G200399470
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200399470
+  legacy_md_filename: Close your seller account.md
+- source_id: GKD9U5REK5DKB38Y
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKD9U5REK5DKB38Y
+  legacy_md_filename: Closing fees.md
+- source_id: G201526800
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201526800
+  legacy_md_filename: Collectible Coins.md
+- source_id: G200386300
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200386300
+  legacy_md_filename: Commercial Liability Insurance Requirements.md
+- source_id: GRCWJ4KHBNQ3SNTB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GRCWJ4KHBNQ3SNTB
+  legacy_md_filename: Common reasons you cannot find your Handmade listings.md
+- source_id: G201901640
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201901640
+  legacy_md_filename: Communicate Effectively With Customers.md
+- source_id: G200389080
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200389080
+  legacy_md_filename: Communicate with buyers using BuyerSeller messages.md
+- source_id: G1701
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G1701
+  legacy_md_filename: Communication guidelines.md
+- source_id: G201576400
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201576400
+  legacy_md_filename: Compare and Choose Listing Methods.md
+- source_id: GR63WFBB6FDNP7G3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GR63WFBB6FDNP7G3
+  legacy_md_filename: Complete Your Drafts.md
+- source_id: G201623610
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201623610
+  legacy_md_filename: Complete an appeal questionnaire to reinstate selling privileges.md
+- source_id: GWQ95DQ9UW4EF49F
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWQ95DQ9UW4EF49F
+  legacy_md_filename: Complete and close a return request.md
+- source_id: G4SMR4GXQ3PYD8BK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4SMR4GXQ3PYD8BK
+  legacy_md_filename: Compliance ID Attribute  FCC Radio Frequency Emission Compliance.md
+- source_id: GLX9EJX844SNJX7J
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLX9EJX844SNJX7J
+  legacy_md_filename: Compliance ID Attribute  Pesticide Marking.md
+- source_id: G5XSKWYY7BWDMS4V
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5XSKWYY7BWDMS4V
+  legacy_md_filename: Compliance Services.md
+- source_id: GZBC9BLXDJVBZPAR
+  url: https://sellercentral.amazon.com/gp/help/external/GZBC9BLXDJVBZPAR
+  legacy_md_filename: Condition guidelines Books.md
+- source_id: G200339950
+  url: https://sellercentral.amazon.com/gp/help/external/G200339950
+  legacy_md_filename: Condition guidelines.md
+- source_id: G2RCDMZR4SKGQFAY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2RCDMZR4SKGQFAY
+  legacy_md_filename: Conditional Unit Count based on Item Form Normalized Value of Size Item Form Num.md
+- source_id: G32431
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G32431
+  legacy_md_filename: Consumer Electronics.md
+- source_id: G202095010
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202095010
+  legacy_md_filename: Consumer rights in Brazil.md
+- source_id: GTV8NTY5RM6N9LUN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GTV8NTY5RM6N9LUN
+  legacy_md_filename: Contact a buyer using BuyerSeller Messages.md
+- source_id: G3SSMEG6TAHFQ5D6
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3SSMEG6TAHFQ5D6
+  legacy_md_filename: Cost Saving Programs for sellers How do I reduce my costs in the Amazon store.md
+- source_id: G200405020
+  url: https://sellercentral.amazon.com/gp/help/external/G200405020
+  legacy_md_filename: Countries accepted for seller registration.md
+- source_id: G200497780
+  url: https://sellercentral.amazon.com/gp/help/external/G200497780
+  legacy_md_filename: Countries regions and currencies supported by Amazon for disbursement.md
+- source_id: G3QLEV6W2QK84C57
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3QLEV6W2QK84C57
+  legacy_md_filename: Coupons.md
+- source_id: G201841970
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201841970
+  legacy_md_filename: Create a Selling Account in any Markeplace.md
+- source_id: G60961
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G60961
+  legacy_md_filename: Create a promotion.md
+- source_id: GSXJTLLHYLVQCWQZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSXJTLLHYLVQCWQZ
+  legacy_md_filename: Create and manage inventory FAQ.md
+- source_id: GFQ8J5JPKERTHQPP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFQ8J5JPKERTHQPP
+  legacy_md_filename: Create and manage offers.md
+- source_id: G201716580
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201716580
+  legacy_md_filename: Create custom help pages.md
+- source_id: G200956770
+  url: https://sellercentral.amazon.com/gp/help/external/G200956770
+  legacy_md_filename: Create inventory file templates and classify your products.md
+- source_id: G6925SDD66GDLXJW
+  url: https://sellercentral.amazon.com/gp/help/external/G6925SDD66GDLXJW
+  legacy_md_filename: Create shipments with Send to Amazon.md
+- source_id: G202094740
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202094740
+  legacy_md_filename: Create your inventory file template.md
+- source_id: GZ4ZQ4HZQM2R4B2X
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZ4ZQ4HZQM2R4B2X
+  legacy_md_filename: Createlistings in bulk.md
+- source_id: '201740330'
+  url: https://sellercentral.amazon.com/gp/help/external/201740330
+  legacy_md_filename: Credentials and Certifications.md
+- source_id: GEQ8JEWH5KJC5QCG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GEQ8JEWH5KJC5QCG
+  legacy_md_filename: Custom Report Builder.md
+- source_id: G200885410
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200885410
+  legacy_md_filename: Customer Concessions Reports.md
+- source_id: G65T4N3XGC3MJB38
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G65T4N3XGC3MJB38
+  legacy_md_filename: Customer Service by Amazon Terms  Conditions.md
+- source_id: GYGMNGX67ZJZMZNP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYGMNGX67ZJZMZNP
+  legacy_md_filename: Customer Service by Amazon program.md
+- source_id: G200453140
+  url: https://sellercentral.amazon.com/gp/help/external/G200453140
+  legacy_md_filename: Customer Shipment Sales Report.md
+- source_id: GYRKB5RU3FS5TURN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYRKB5RU3FS5TURN
+  legacy_md_filename: Customer product reviews policies.md
+- source_id: G201468550
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468550
+  legacy_md_filename: Customer returns for international sales.md
+- source_id: GFAK2DGMB6JWDZUX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFAK2DGMB6JWDZUX
+  legacy_md_filename: Customer service insights frequently asked questions.md
+- source_id: GEGVWH65EDJLWHQD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GEGVWH65EDJLWHQD
+  legacy_md_filename: Customer service insights on Feedback Manager.md
+- source_id: G201468530
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468530
+  legacy_md_filename: Customer support and returns for international sales.md
+- source_id: G201823150
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201823150
+  legacy_md_filename: Customization Program Terms for Sellers.md
+- source_id: G455QMHQTVD5XW6P
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G455QMHQTVD5XW6P
+  legacy_md_filename: Customize SKU settings.md
+- source_id: GN4SW35Y4KXHX8BT
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GN4SW35Y4KXHX8BT
+  legacy_md_filename: Dangerous Goods policy.md
+- source_id: GDMU6WZNPLTKM9J3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDMU6WZNPLTKM9J3
+  legacy_md_filename: Delete a product.md
+- source_id: G201633660
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201633660
+  legacy_md_filename: Delivery Expectations for Individual Sellers.md
+- source_id: G2V3TMTJREQ4RJ97
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2V3TMTJREQ4RJ97
+  legacy_md_filename: Delivery delay due to natural disaster.md
+- source_id: GKDAPLNPVF9BENVB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKDAPLNPVF9BENVB
+  legacy_md_filename: Demand forecast.md
+- source_id: GMVQXVHHG8Q8KN7L
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMVQXVHHG8Q8KN7L
+  legacy_md_filename: Digital services fee.md
+- source_id: G53Z9EKF8VVZVH29
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G53Z9EKF8VVZVH29
+  legacy_md_filename: Dimensional weight.md
+- source_id: GAXYWS739USP7BGA
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GAXYWS739USP7BGA
+  legacy_md_filename: Direct brandsite shopping beta.md
+- source_id: GSCWUZNYQRY4LEZH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSCWUZNYQRY4LEZH
+  legacy_md_filename: Disburse on Demand.md
+- source_id: G202170300
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202170300
+  legacy_md_filename: Discounts Provided by Amazon.md
+- source_id: G202101950
+  url: https://sellercentral.amazon.com/gp/help/external/G202101950
+  legacy_md_filename: Downgrade or upgrade and tax calculation service.md
+- source_id: GFYSJC946YKTD68L
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFYSJC946YKTD68L
+  legacy_md_filename: Download Category Listings Report.md
+- source_id: G561
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G561
+  legacy_md_filename: Download an Inventory Report.md
+- source_id: G201808410
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201808410
+  legacy_md_filename: Drop Shipping Policy.md
+- source_id: G99H4M4FSNBVPCMW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G99H4M4FSNBVPCMW
+  legacy_md_filename: ESign disclosure and consent for electronic communications agreement.md
+- source_id: G201190460
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201190460
+  legacy_md_filename: EU Value Added Tax EU VAT Registration Agreement.md
+- source_id: G201748700
+  url: https://sellercentral.amazon.com/gp/help/external/G201748700
+  legacy_md_filename: EU Value Added Tax VAT frequently asked questions.md
+- source_id: GSGKAPSNT53G5B2P
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSGKAPSNT53G5B2P
+  legacy_md_filename: Edit a listing.md
+- source_id: G60981
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G60981
+  legacy_md_filename: Edit a promotion.md
+- source_id: G201818900
+  url: https://sellercentral.amazon.com/gp/help/external/G201818900
+  legacy_md_filename: Edit your Amazon Business profile.md
+- source_id: G201716570
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201716570
+  legacy_md_filename: Edit your default help pages.md
+- source_id: '200403880'
+  url: https://sellercentral.amazon.com/gp/help/external/200403880
+  legacy_md_filename: Enhance your listings.md
+- source_id: GKQ2X9KZ9EU7AK53
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKQ2X9KZ9EU7AK53
+  legacy_md_filename: Enroll certified Textile and OekoTex products in Climate Pledge Friendly.md
+- source_id: GE94565V5PDYL5MZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GE94565V5PDYL5MZ
+  legacy_md_filename: Enroll products in our Climate Pledge Friendly program.md
+- source_id: GJ6RWQCLKQGY2HT3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJ6RWQCLKQGY2HT3
+  legacy_md_filename: Error 90057.md
+- source_id: G200713110
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200713110
+  legacy_md_filename: Error 99001.md
+- source_id: G200713270
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200713270
+  legacy_md_filename: Error 99010.md
+- source_id: G17781
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G17781
+  legacy_md_filename: Error code explanations.md
+- source_id: G200680700
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200680700
+  legacy_md_filename: Estimated fee per unit sold.md
+- source_id: '201468410'
+  url: https://sellercentral.amazon.com/gp/help/external/201468410
+  legacy_md_filename: Europe tax and regulatory considerations.md
+- source_id: G201901620
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201901620
+  legacy_md_filename: Expectations for shipping buyer orders.md
+- source_id: G201003420
+  url: https://sellercentral.amazon.com/gp/help/external/G201003420
+  legacy_md_filename: Expiration dates on FBA products.md
+- source_id: GD646NUBNNJLQADP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GD646NUBNNJLQADP
+  legacy_md_filename: Expiration dates on sellerfulfilled products.md
+- source_id: GGE9MV46WLUVUGBB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGE9MV46WLUVUGBB
+  legacy_md_filename: Explore Brand Selection.md
+- source_id: GHRCBB7RE3HSLGHC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHRCBB7RE3HSLGHC
+  legacy_md_filename: Express Payout Bank Account and Visa Debit Card Policies.md
+- source_id: GVRVXQVEDY8CLA47
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GVRVXQVEDY8CLA47
+  legacy_md_filename: Express Payout UK Visa Debit Card policy.md
+- source_id: G6HWWWCJWX3VACGT
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G6HWWWCJWX3VACGT
+  legacy_md_filename: Express Payout UK Visa Debit Card service terms and conditions.md
+- source_id: GA24UN79VBPKXZXX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GA24UN79VBPKXZXX
+  legacy_md_filename: Express Payout frequently asked questions.md
+- source_id: GDM5Z5F5FUZVMN7T
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDM5Z5F5FUZVMN7T
+  legacy_md_filename: Extralarge FBA inventory.md
+- source_id: GTTVM5H5ZE8YJ5NU
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GTTVM5H5ZE8YJ5NU
+  legacy_md_filename: Extralarge Fulfillment by Amazon.md
+- source_id: '200453320'
+  url: https://sellercentral.amazon.com/gp/help/external/200453320
+  legacy_md_filename: FBA Customer Returns report overview.md
+- source_id: GYS2KBEE7MYVCGE3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYS2KBEE7MYVCGE3
+  legacy_md_filename: FBA Dangerous Goods Program Terms and Conditions.md
+- source_id: GVCFMKLPUTBXE7L5
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GVCFMKLPUTBXE7L5
+  legacy_md_filename: FBA Donations program.md
+- source_id: GLVZKY7AM8CKEBU6
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLVZKY7AM8CKEBU6
+  legacy_md_filename: FBA Enrollment Opportunities.md
+- source_id: '200149570'
+  url: https://sellercentral.amazon.com/gp/help/external/200149570
+  legacy_md_filename: FBA Export.md
+- source_id: G5KV5DGG6UMQAKL4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5KV5DGG6UMQAKL4
+  legacy_md_filename: FBA Global Selling.md
+- source_id: GUA6RV6UA4DR2MFK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUA6RV6UA4DR2MFK
+  legacy_md_filename: FBA Grade and Resell.md
+- source_id: GKCHLNKSLXTWLBLY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKCHLNKSLXTWLBLY
+  legacy_md_filename: FBA Inventory Management Features.md
+- source_id: G4HKUC974Z79ZG9L
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4HKUC974Z79ZG9L
+  legacy_md_filename: FBA Inventory Management Tasks.md
+- source_id: GTMXYZN64UJL7TT6
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GTMXYZN64UJL7TT6
+  legacy_md_filename: FBA Inventory overview.md
+- source_id: GKT9YKCHXMSDVJKB
+  url: https://sellercentral.amazon.com/gp/help/external/GKT9YKCHXMSDVJKB
+  legacy_md_filename: FBA Inventory report.md
+- source_id: G200483770
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200483770
+  legacy_md_filename: FBA Label Service fee.md
+- source_id: G200483750
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200483750
+  legacy_md_filename: FBA Label Service.md
+- source_id: GYVCG5Q3BEJ6MLMF
+  url: https://sellercentral.amazon.com/gp/help/external/GYVCG5Q3BEJ6MLMF
+  legacy_md_filename: FBA Liquidations.md
+- source_id: GNNBARVDT97NGLQ4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GNNBARVDT97NGLQ4
+  legacy_md_filename: FBA New Selection Terms and Conditions.md
+- source_id: GWHQRT98SAZC29VQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWHQRT98SAZC29VQ
+  legacy_md_filename: FBA New Selection.md
+- source_id: GUR3U38AMTCWFRWB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUR3U38AMTCWFRWB
+  legacy_md_filename: FBA Partial Refunds.md
+- source_id: G201023020
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201023020
+  legacy_md_filename: FBA Prep Service.md
+- source_id: G3RZC8DVQCDTCQ3B
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3RZC8DVQCDTCQ3B
+  legacy_md_filename: FBA Returnless Resolutions.md
+- source_id: GUUSS6CXMUYXGTEC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUUSS6CXMUYXGTEC
+  legacy_md_filename: FBA SameDay Delivery.md
+- source_id: G201706140
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201706140
+  legacy_md_filename: FBA Small and Light.md
+- source_id: G201074420
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201074420
+  legacy_md_filename: FBA business reports.md
+- source_id: GAFNWEYTJUV2GBFC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GAFNWEYTJUV2GBFC
+  legacy_md_filename: FBA capacity limits.md
+- source_id: G200298130
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200298130
+  legacy_md_filename: FBA customer service.md
+- source_id: GPDFH32J7DYNM378
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GPDFH32J7DYNM378
+  legacy_md_filename: FBA dashboard.md
+- source_id: G5FKTA8LXU4TZPD5
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5FKTA8LXU4TZPD5
+  legacy_md_filename: FBA disposal order fees.md
+- source_id: G201074400
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201074400
+  legacy_md_filename: FBA features services and fees.md
+- source_id: G200209150
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200209150
+  legacy_md_filename: FBA fees.md
+- source_id: GPDC3KPYAGDTVDJP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GPDC3KPYAGDTVDJP
+  legacy_md_filename: FBA fulfillment fee.md
+- source_id: GC3Q44PBK8BXQW3Z
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GC3Q44PBK8BXQW3Z
+  legacy_md_filename: FBA inbound placement service fee.md
+- source_id: G200213130
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200213130
+  legacy_md_filename: FBA inventory reimbursement policy.md
+- source_id: GV8JEETWV9Q33CMX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GV8JEETWV9Q33CMX
+  legacy_md_filename: FBA inventory storage overage fees.md
+- source_id: G201074410
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201074410
+  legacy_md_filename: FBA inventory.md
+- source_id: G202061550
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202061550
+  legacy_md_filename: FBA manual processing fee.md
+- source_id: G4QH4XCRWUXRJBLY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4QH4XCRWUXRJBLY
+  legacy_md_filename: FBA peak readiness playbook.md
+- source_id: G201030350
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201030350
+  legacy_md_filename: FBA policies and requirements.md
+- source_id: '201051300'
+  url: https://sellercentral.amazon.com/gp/help/external/201051300
+  legacy_md_filename: FBA product title requirements.md
+- source_id: G200685050
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200685050
+  legacy_md_filename: FBA removal order fees.md
+- source_id: G201505310
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201505310
+  legacy_md_filename: FBA repackagingand refurbishment services.md
+- source_id: G200288170
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200288170
+  legacy_md_filename: FBA resources.md
+- source_id: GF3FZUPP7UZ34AZY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GF3FZUPP7UZ34AZY
+  legacy_md_filename: FBA shipment creation changes to Send to Amazon.md
+- source_id: GKQU9R2262NLXGXB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKQU9R2262NLXGXB
+  legacy_md_filename: FBA troubleshooting and FAQ.md
+- source_id: G651
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G651
+  legacy_md_filename: FBM Order Reports.md
+- source_id: G25JYBE52BCW5QJN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G25JYBE52BCW5QJN
+  legacy_md_filename: FBM Ship.md
+- source_id: G200418100
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200418100
+  legacy_md_filename: Featured Offer eligibility.md
+- source_id: G37911
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G37911
+  legacy_md_filename: Featured Offer.md
+- source_id: G201822160
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201822160
+  legacy_md_filename: Fee Explainers.md
+- source_id: '201115050'
+  url: https://sellercentral.amazon.com/gp/help/external/201115050
+  legacy_md_filename: Fee Preview report.md
+- source_id: GFD6HLGAEZC9VBGJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFD6HLGAEZC9VBGJ
+  legacy_md_filename: Fee category guidelines for your products.md
+- source_id: G201958690
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201958690
+  legacy_md_filename: Fee discounts.md
+- source_id: G201687890
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201687890
+  legacy_md_filename: Find help from external solution providers with Selling Partner Appstore.md
+- source_id: G200211450
+  url: https://sellercentral.amazon.com/gp/help/external/G200211450
+  legacy_md_filename: Find your product ID GTIN.md
+- source_id: G201622250
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201622250
+  legacy_md_filename: Fine Jewelry Terms and Conditions.md
+- source_id: G200252930
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200252930
+  legacy_md_filename: Fix a no listing error.md
+- source_id: G4ULSBTEKVKX2G55
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4ULSBTEKVKX2G55
+  legacy_md_filename: Form Privacy Notice.md
+- source_id: GEKBRFKQE38CQA6V
+  url: https://sellercentral.amazon.com/gp/help/external/GEKBRFKQE38CQA6V
+  legacy_md_filename: Free returns on Fashion items for sellerfulfilled orders.md
+- source_id: GGLVN6Y9PZ6W4NSD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGLVN6Y9PZ6W4NSD
+  legacy_md_filename: Free shipping.md
+- source_id: G202188040
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202188040
+  legacy_md_filename: Freightshipping templates for lessthantruckload LTL shipments.md
+- source_id: G4BBHW7XBNS2GMWU
+  url: https://sellercentral.amazon.com/gp/help/external/G4BBHW7XBNS2GMWU
+  legacy_md_filename: Frequently Asked Questions on Australias Low Value Imports GST.md
+- source_id: G2MJXHQCR62DZSSM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2MJXHQCR62DZSSM
+  legacy_md_filename: Frequently asked questions about Global SIV.md
+- source_id: G200847280
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200847280
+  legacy_md_filename: Frequently asked questions about ontime delivery rate OTDR.md
+- source_id: GTRP6DXEA983DPD6
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GTRP6DXEA983DPD6
+  legacy_md_filename: Frequentlyreturned item badge.md
+- source_id: GE9ZHG4QK9NKT4AE
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GE9ZHG4QK9NKT4AE
+  legacy_md_filename: Fulfiling Low Value Imports to Australia.md
+- source_id: G5L5DLMDU82XL82L
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5L5DLMDU82XL82L
+  legacy_md_filename: Fulfillment Insight dashboard.md
+- source_id: G2NZU6KZ8FMWHYMP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2NZU6KZ8FMWHYMP
+  legacy_md_filename: Fulfillment programs portal.md
+- source_id: G9RA9LYBJ3QP27M6
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9RA9LYBJ3QP27M6
+  legacy_md_filename: Funds disbursement eligibility policy.md
+- source_id: G5DA4FB5YD6PD5PX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5DA4FB5YD6PD5PX
+  legacy_md_filename: Get Paid Faster service terms for invoiced orders.md
+- source_id: G201484560
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201484560
+  legacy_md_filename: Get Started with Selling Services.md
+- source_id: G60511
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G60511
+  legacy_md_filename: Get payments reports.md
+- source_id: G2NVGK9X3Y4XRT9H
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2NVGK9X3Y4XRT9H
+  legacy_md_filename: Get started with Amazon Handmade.md
+- source_id: G53921
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G53921
+  legacy_md_filename: Get started with Fulfillment by Amazon FBA.md
+- source_id: GYCAQ9XRL273EVDX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYCAQ9XRL273EVDX
+  legacy_md_filename: Get started with MultiLocation Inventory.md
+- source_id: G201911450
+  url: https://sellercentral.amazon.com/gp/help/external/G201911450
+  legacy_md_filename: Get to Know the Product Detail Page.md
+- source_id: GBXY4PRVN87E8KL2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBXY4PRVN87E8KL2
+  legacy_md_filename: Global Promotions Sales dashboard.md
+- source_id: GKMK7CM7F9Q8FKUG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GKMK7CM7F9Q8FKUG
+  legacy_md_filename: Global registration.md
+- source_id: GQRP483PDN88Q3M9
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GQRP483PDN88Q3M9
+  legacy_md_filename: Global seller identity address and business verification.md
+- source_id: G201511970
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201511970
+  legacy_md_filename: Grocery  gourmet foods.md
+- source_id: GME4JXYQ8QC3T2QV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GME4JXYQ8QC3T2QV
+  legacy_md_filename: Guide for selling partners from out of Brazil.md
+- source_id: G5JQC6VY6BVYWDPT
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5JQC6VY6BVYWDPT
+  legacy_md_filename: Guidelines for UPC and GTIN.md
+- source_id: '200573210'
+  url: https://sellercentral.amazon.com/gp/help/external/200573210
+  legacy_md_filename: Guidelines for use of the Available at Amazon Badge by Sellers.md
+- source_id: G2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2
+  legacy_md_filename: Help for Amazon Sellers.md
+- source_id: G7942GMW2RET3WDG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7942GMW2RET3WDG
+  legacy_md_filename: Highvolume listing fee.md
+- source_id: G283Q727ZXMVTLX7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G283Q727ZXMVTLX7
+  legacy_md_filename: Home Entry Compliance Policy.md
+- source_id: G201081250
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201081250
+  legacy_md_filename: How Amazon receives and stores your inventory.md
+- source_id: G202010040
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202010040
+  legacy_md_filename: How can I delete specific product listings or replace all my listings.md
+- source_id: G202010020
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202010020
+  legacy_md_filename: How do I use the different inventory templates.md
+- source_id: G202010000
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202010000
+  legacy_md_filename: How do I view my uploaded Inventory file result.md
+- source_id: G200418110
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200418110
+  legacy_md_filename: How the Other Sellers on Amazon box works.md
+- source_id: G201813570
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201813570
+  legacy_md_filename: How to Start Selling on Amazon Videos.md
+- source_id: GSWPS4GPEPMXZ98R
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSWPS4GPEPMXZ98R
+  legacy_md_filename: How to enable TwoStep Verification.md
+- source_id: GJD7X9PEBKQVZ2RZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJD7X9PEBKQVZ2RZ
+  legacy_md_filename: How to use the Manage Seller Fulfilled Returns page.md
+- source_id: GZJF4DY2W6MERBAL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZJF4DY2W6MERBAL
+  legacy_md_filename: IPI frequently asked questions.md
+- source_id: GQVPQARLRERHWKBV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GQVPQARLRERHWKBV
+  legacy_md_filename: If your business location is Australia.md
+- source_id: GAZSVFRDYZPFBYHD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GAZSVFRDYZPFBYHD
+  legacy_md_filename: If your business location is Brazil.md
+- source_id: GTNS9EVXU2KVBHC5
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GTNS9EVXU2KVBHC5
+  legacy_md_filename: If your business location is Canada.md
+- source_id: GSTQGS38CC9867UF
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSTQGS38CC9867UF
+  legacy_md_filename: If your business location is China.md
+- source_id: G9GFNKKWR5MVPFXB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9GFNKKWR5MVPFXB
+  legacy_md_filename: If your business location is Egypt.md
+- source_id: G66JB7E3P2RBVDWJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G66JB7E3P2RBVDWJ
+  legacy_md_filename: If your business location is France.md
+- source_id: GSDEZ743QCQ2VMGZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSDEZ743QCQ2VMGZ
+  legacy_md_filename: If your business location is Germany.md
+- source_id: GVEGSMPP7CJP2Z2F
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GVEGSMPP7CJP2Z2F
+  legacy_md_filename: If your business location is Hong Kong.md
+- source_id: GF4CEZLPSKFXPCM3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GF4CEZLPSKFXPCM3
+  legacy_md_filename: If your business location is India.md
+- source_id: GG8XNRBQNFCFRPQB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GG8XNRBQNFCFRPQB
+  legacy_md_filename: If your business location is Ireland.md
+- source_id: G8MDJRDWCY6SH6E2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8MDJRDWCY6SH6E2
+  legacy_md_filename: If your business location is Italy.md
+- source_id: G4GJXD8MWGJK7BJD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4GJXD8MWGJK7BJD
+  legacy_md_filename: If your business location is Japan.md
+- source_id: GDWYSCEYL8DUFDLB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDWYSCEYL8DUFDLB
+  legacy_md_filename: If your business location is Mexico.md
+- source_id: GDK9GP9K2N9862KZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDK9GP9K2N9862KZ
+  legacy_md_filename: If your business location is Poland.md
+- source_id: GHSP9MFQ33KW5LSX
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHSP9MFQ33KW5LSX
+  legacy_md_filename: If your business location is Saudi Arabia.md
+- source_id: G2FYAUYVBPV7C3AJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2FYAUYVBPV7C3AJ
+  legacy_md_filename: If your business location is Singapore.md
+- source_id: GBVK5PEDGFPCVBKJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBVK5PEDGFPCVBKJ
+  legacy_md_filename: If your business location is South Africa.md
+- source_id: GNVB7W46WT2CB3RE
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GNVB7W46WT2CB3RE
+  legacy_md_filename: If your business location is Spain.md
+- source_id: GHCZ2QCPHULGPHDR
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHCZ2QCPHULGPHDR
+  legacy_md_filename: If your business location is Sweden.md
+- source_id: GSB8S8BQF68WHN9W
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSB8S8BQF68WHN9W
+  legacy_md_filename: If your business location is Taiwan.md
+- source_id: GHMMVB2ARHVMNZMR
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHMMVB2ARHVMNZMR
+  legacy_md_filename: If your business location is Türkiye.md
+- source_id: G84RNF8H9ZA8H9Z9
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G84RNF8H9ZA8H9Z9
+  legacy_md_filename: If your business location is the Netherlands.md
+- source_id: GM9MYVG9NBJCDFVT
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM9MYVG9NBJCDFVT
+  legacy_md_filename: If your business location is the United Arab Emirates.md
+- source_id: G7U89HC2GNPA7EB8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7U89HC2GNPA7EB8
+  legacy_md_filename: If your business location is the United Kingdom.md
+- source_id: G7GA95FCYX3WXPC3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7GA95FCYX3WXPC3
+  legacy_md_filename: If your business location is the United States.md
+- source_id: G200498950
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200498950
+  legacy_md_filename: Image guidelines for clothing.md
+- source_id: GT8RSE9S9NK4LP6Z
+  url: https://sellercentral.amazon.com/gp/help/external/GT8RSE9S9NK4LP6Z
+  legacy_md_filename: Image issues.md
+- source_id: G17771
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G17771
+  legacy_md_filename: Image troubleshooting.md
+- source_id: G8HQAHPDXA9ANPH4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8HQAHPDXA9ANPH4
+  legacy_md_filename: Image variants.md
+- source_id: G17811
+  url: https://sellercentral.amazon.com/gp/help/external/G17811
+  legacy_md_filename: Images not appearing on the detail page.md
+- source_id: G201033090
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201033090
+  legacy_md_filename: Important Notice for International Sellers.md
+- source_id: G200404870
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200404870
+  legacy_md_filename: Important information for international sellers.md
+- source_id: GJNKML97UBKV9QEF
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJNKML97UBKV9QEF
+  legacy_md_filename: Improve your listings.md
+- source_id: GTBBP39NRMSMZK98
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GTBBP39NRMSMZK98
+  legacy_md_filename: InStock Head Start.md
+- source_id: '200875520'
+  url: https://sellercentral.amazon.com/gp/help/external/200875520
+  legacy_md_filename: Inbound Performance report.md
+- source_id: GL5XA3MNXAJKJE8E
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GL5XA3MNXAJKJE8E
+  legacy_md_filename: Inbound defect fees.md
+- source_id: G200917490
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200917490
+  legacy_md_filename: Inbound visibility for small parcel and LTL shipments.md
+- source_id: G43381
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G43381
+  legacy_md_filename: Increase sales.md
+- source_id: G201200780
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201200780
+  legacy_md_filename: Information required to sell on Amazon Brazil.md
+- source_id: G6BPHKRRX6HGLSQ7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G6BPHKRRX6HGLSQ7
+  legacy_md_filename: Information required to sell on Amazon Canada.md
+- source_id: G201361070
+  url: https://sellercentral.amazon.com/gp/help/external/G201361070
+  legacy_md_filename: Intellectual Property Policy for Sellers.md
+- source_id: GZUQ6GBBXQVHQKF2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZUQ6GBBXQVHQKF2
+  legacy_md_filename: Intellectual property policy for sellers  trademarks.md
+- source_id: GFC63UNUF6LMLK2R
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFC63UNUF6LMLK2R
+  legacy_md_filename: Inventory Buyability.md
+- source_id: G66ZLS453YSE2Y4R
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G66ZLS453YSE2Y4R
+  legacy_md_filename: Inventory Defect and Reimbursement IDR Portal.md
+- source_id: GCRWH2T93NYDHBXU
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GCRWH2T93NYDHBXU
+  legacy_md_filename: Inventory Ledger report How to find the information you need.md
+- source_id: G4FKT5KQWFFJ7LDN
+  url: https://sellercentral.amazon.com/gp/help/external/G4FKT5KQWFFJ7LDN
+  legacy_md_filename: Inventory Ledger report.md
+- source_id: G200372710
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200372710
+  legacy_md_filename: Inventory disposition.md
+- source_id: G201201070
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201201070
+  legacy_md_filename: Inventory file upload FAQ.md
+- source_id: G202174810
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202174810
+  legacy_md_filename: Inventory performance.md
+- source_id: G200885390
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200885390
+  legacy_md_filename: Inventory reports.md
+- source_id: GDQ9K277NYP6WNEW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDQ9K277NYP6WNEW
+  legacy_md_filename: Invoice requirements for appealing a policy violation.md
+- source_id: GU7K5N5GUP67M4X9
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GU7K5N5GUP67M4X9
+  legacy_md_filename: Issue refunds and concessions for sellerfulfilled orders.md
+- source_id: G201468420
+  url: https://sellercentral.amazon.com/gp/help/external/G201468420
+  legacy_md_filename: Japan Tax and Regulatory Considerations.md
+- source_id: G201858870
+  url: https://sellercentral.amazon.com/gp/help/external/G201858870
+  legacy_md_filename: Japanese Consumption Tax.md
+- source_id: G2KNH9H3CXZN6ULZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2KNH9H3CXZN6ULZ
+  legacy_md_filename: Keep your listings discoverable.md
+- source_id: GF2C2L6RCFZGWBXC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GF2C2L6RCFZGWBXC
+  legacy_md_filename: Keyword attributes explained.md
+- source_id: GFUQMPCZZCJ5S34E
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFUQMPCZZCJ5S34E
+  legacy_md_filename: Lab Central Program Policy.md
+- source_id: G200690450
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200690450
+  legacy_md_filename: Language Selector Beta.md
+- source_id: G63ZD2BUDXF28WEC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G63ZD2BUDXF28WEC
+  legacy_md_filename: Large and Oversize.md
+- source_id: '200285190'
+  url: https://sellercentral.amazon.com/gp/help/external/200285190
+  legacy_md_filename: Late shipment rate.md
+- source_id: GMYRLMMPMNR7UQSE
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMYRLMMPMNR7UQSE
+  legacy_md_filename: Launch of new dimension attributes for 816 product types.md
+- source_id: G201816790
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201816790
+  legacy_md_filename: Leave Amazon Handmade.md
+- source_id: G200327780
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200327780
+  legacy_md_filename: List FBA products in bulk.md
+- source_id: GAMHNVFSF8DT2CQ4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GAMHNVFSF8DT2CQ4
+  legacy_md_filename: List Your Products.md
+- source_id: GXKD8EAW2LPKYFD4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GXKD8EAW2LPKYFD4
+  legacy_md_filename: List of key fee terms.md
+- source_id: GM7QTG54ECZ3BEX8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM7QTG54ECZ3BEX8
+  legacy_md_filename: List of useful fee tools.md
+- source_id: G200141220
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200141220
+  legacy_md_filename: List products for Fulfillment by Amazon.md
+- source_id: G200426310
+  url: https://sellercentral.amazon.com/gp/help/external/G200426310
+  legacy_md_filename: List products that do not have a Product ID UPC EAN JAN or ISBN.md
+- source_id: GV9JMNE2KU3A8K4X
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GV9JMNE2KU3A8K4X
+  legacy_md_filename: Listing Attributes.md
+- source_id: G201468480
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468480
+  legacy_md_filename: Listing Creation for Global Accounts.md
+- source_id: G201141430
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201141430
+  legacy_md_filename: Listing blocked due to potential pricing error.md
+- source_id: GLQ3XNK7G8586BS2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLQ3XNK7G8586BS2
+  legacy_md_filename: Listing offers for refurbished electronics products.md
+- source_id: G201270290
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201270290
+  legacy_md_filename: Listing photos.md
+- source_id: GC3QAQ8CCXUG5RE4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GC3QAQ8CCXUG5RE4
+  legacy_md_filename: Listing quality guidelines.md
+- source_id: G200317470
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200317470
+  legacy_md_filename: Listing requirements Product IDs GTINs.md
+- source_id: G200135620
+  url: https://sellercentral.amazon.com/gp/help/external/G200135620
+  legacy_md_filename: Listing status for vacations holidays and other absences.md
+- source_id: GD76M4FUWL4NEU32
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GD76M4FUWL4NEU32
+  legacy_md_filename: Listings APIs.md
+- source_id: G9RJJ3KFHSF6YRAG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9RJJ3KFHSF6YRAG
+  legacy_md_filename: Lithium batteries fee.md
+- source_id: GALGRJ45NC438BPK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GALGRJ45NC438BPK
+  legacy_md_filename: Local Selling Program Policies.md
+- source_id: GUGFQ9HS2JBLN7XZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUGFQ9HS2JBLN7XZ
+  legacy_md_filename: Local Selling Terms.md
+- source_id: GV43F6S76Y9DHYRH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GV43F6S76Y9DHYRH
+  legacy_md_filename: Lowinventorylevel fee.md
+- source_id: G201817720
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201817720
+  legacy_md_filename: Maker profile for Handmade.md
+- source_id: G201058620
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201058620
+  legacy_md_filename: Making a payment.md
+- source_id: '200740940'
+  url: https://sellercentral.amazon.com/gp/help/external/200740940
+  legacy_md_filename: Manage FBA Inventory report Archive.md
+- source_id: '200740930'
+  url: https://sellercentral.amazon.com/gp/help/external/200740930
+  legacy_md_filename: Manage FBA Inventory report.md
+- source_id: G200141600
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200141600
+  legacy_md_filename: Manage FBA Orders.md
+- source_id: G200169480
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200169480
+  legacy_md_filename: Manage FBA inventory.md
+- source_id: G571
+  url: https://sellercentral.amazon.com/gp/help/external/G571
+  legacy_md_filename: Manage Gift Options.md
+- source_id: GEDSVA3D58NL292F
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GEDSVA3D58NL292F
+  legacy_md_filename: Manage Holiday Settings.md
+- source_id: G69124
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69124
+  legacy_md_filename: Manage Orders FAQ.md
+- source_id: G28141
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G28141
+  legacy_md_filename: Manage Orders.md
+- source_id: GVP453K5XRBJS7Y9
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GVP453K5XRBJS7Y9
+  legacy_md_filename: Manage Your Experiments.md
+- source_id: G69035
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69035
+  legacy_md_filename: Manage account settings.md
+- source_id: G41
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G41
+  legacy_md_filename: Manage inventory.md
+- source_id: GPTFQ566449VXXCP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GPTFQ566449VXXCP
+  legacy_md_filename: Manage pricing.md
+- source_id: GY4LL3M3WJEFE8MZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GY4LL3M3WJEFE8MZ
+  legacy_md_filename: Manage product videos FAQ.md
+- source_id: G200708210
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200708210
+  legacy_md_filename: Manage sellerfulfilled returns.md
+- source_id: GPZWG9U73U68747F
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GPZWG9U73U68747F
+  legacy_md_filename: Manage shipping templates.md
+- source_id: G202167920
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202167920
+  legacy_md_filename: Manage your delivery time.md
+- source_id: G9DZLGS87GVDT94B
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9DZLGS87GVDT94B
+  legacy_md_filename: Manage your offers in bulk.md
+- source_id: G201186860
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201186860
+  legacy_md_filename: Manage your offers one at a time.md
+- source_id: GYJK3KL7KCFQHGBP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYJK3KL7KCFQHGBP
+  legacy_md_filename: Managing FBA product level shipment restrictions.md
+- source_id: GANTBRR5RWKTRZBF
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GANTBRR5RWKTRZBF
+  legacy_md_filename: Managing your Promotions.md
+- source_id: G200836360
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200836360
+  legacy_md_filename: Match Low Price.md
+- source_id: G200894980
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200894980
+  legacy_md_filename: Maximize Inventory File Upload Performance.md
+- source_id: GMF8CVX6S6CF8MM2
+  url: https://sellercentral.amazon.com/gp/help/external/GMF8CVX6S6CF8MM2
+  legacy_md_filename: Media product types.md
+- source_id: G201841950
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201841950
+  legacy_md_filename: Merge accounts.md
+- source_id: G201812940
+  url: https://sellercentral.amazon.com/gp/help/external/G201812940
+  legacy_md_filename: Mexico tax and regulatory considerations.md
+- source_id: G3VMLXD2ZL3V47JC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3VMLXD2ZL3V47JC
+  legacy_md_filename: Micro deposit verification FAQ.md
+- source_id: G9BYNYF4FAXXBPJZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G9BYNYF4FAXXBPJZ
+  legacy_md_filename: Minimum Inventory Level overview.md
+- source_id: G202024200
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202024200
+  legacy_md_filename: Misleading and prohibited claims.md
+- source_id: G171
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G171
+  legacy_md_filename: Monitor feedback and performance.md
+- source_id: G3EDYEF6KUCFQTNM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G3EDYEF6KUCFQTNM
+  legacy_md_filename: Monthly inventory storage fees.md
+- source_id: G202086720
+  url: https://sellercentral.amazon.com/gp/help/external/G202086720
+  legacy_md_filename: Monthly storage fees report.md
+- source_id: G67WTAUHB9TQ9M6U
+  url: https://sellercentral.amazon.com/gp/help/external/G67WTAUHB9TQ9M6U
+  legacy_md_filename: Monthly subscription fee.md
+- source_id: G200332450
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200332450
+  legacy_md_filename: MultiChannel Fulfillment Fulfill orders for your sales channels.md
+- source_id: G201491370
+  url: https://sellercentral.amazon.com/gp/help/external/G201491370
+  legacy_md_filename: MultiCountry Inventory Report.md
+- source_id: GJTDKPYEPQCXNS6M
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJTDKPYEPQCXNS6M
+  legacy_md_filename: MultiLocation Inventory MLI.md
+- source_id: G94GSFMC79RSLDBY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G94GSFMC79RSLDBY
+  legacy_md_filename: Multipack imaging standards.md
+- source_id: GHGHDMU4X5K9QGCV
+  url: https://sellercentral.amazon.com/gp/help/external/GHGHDMU4X5K9QGCV
+  legacy_md_filename: My ASIN is unsearchable.md
+- source_id: GJV4FNMT7563SF5F
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJV4FNMT7563SF5F
+  legacy_md_filename: Name your image files.md
+- source_id: GXMJ38VA95GUN5XU
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GXMJ38VA95GUN5XU
+  legacy_md_filename: New Seller Incentives.md
+- source_id: GY522JRKTY5T5845
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GY522JRKTY5T5845
+  legacy_md_filename: New or notable arrival badges.md
+- source_id: GAEG57678UHDZ3EP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GAEG57678UHDZ3EP
+  legacy_md_filename: Newer version widget.md
+- source_id: G78FETD7HXHVNCKG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G78FETD7HXHVNCKG
+  legacy_md_filename: Next Gen Selling NGS.md
+- source_id: G201642980
+  url: https://sellercentral.amazon.com/gp/help/external/G201642980
+  legacy_md_filename: North America and Brazil Unified Account FAQ.md
+- source_id: G201617630
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201617630
+  legacy_md_filename: North America and Brazil Unified Account.md
+- source_id: G871
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G871
+  legacy_md_filename: Notification preferences.md
+- source_id: G201440840
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201440840
+  legacy_md_filename: Novelty SKU Limits.md
+- source_id: G201687530
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201687530
+  legacy_md_filename: Offer placement.md
+- source_id: GWU5WMK8UR8XHHC2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWU5WMK8UR8XHHC2
+  legacy_md_filename: Optimize your business.md
+- source_id: G10471
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G10471
+  legacy_md_filename: Optimize your product discoverability.md
+- source_id: G200204080
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200204080
+  legacy_md_filename: Optional coverage for loss or damage.md
+- source_id: G200198170
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200198170
+  legacy_md_filename: Options for managing orders.md
+- source_id: GGJVNFDXQT8C3RA8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGJVNFDXQT8C3RA8
+  legacy_md_filename: Order Performance program policy.md
+- source_id: G201722390
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201722390
+  legacy_md_filename: Order cancellations.md
+- source_id: '200285170'
+  url: https://sellercentral.amazon.com/gp/help/external/200285170
+  legacy_md_filename: Order defect rate.md
+- source_id: GGCGMQHGX95C5CB8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGCGMQHGX95C5CB8
+  legacy_md_filename: Overmax Handling Fee.md
+- source_id: G200332540
+  url: https://sellercentral.amazon.com/gp/help/external/G200332540
+  legacy_md_filename: Overview of categories.md
+- source_id: G59811
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G59811
+  legacy_md_filename: PIN verification.md
+- source_id: GHBVLKJT74DS9A54
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHBVLKJT74DS9A54
+  legacy_md_filename: Passkey verification.md
+- source_id: G202105160
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202105160
+  legacy_md_filename: Pay by Invoice Policies.md
+- source_id: GY8JTVAWBPQT2XFC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GY8JTVAWBPQT2XFC
+  legacy_md_filename: Payment Service Provider FAQ.md
+- source_id: GHP8M87Z5W6XTSTL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHP8M87Z5W6XTSTL
+  legacy_md_filename: Payment Service Provider updates.md
+- source_id: G69122
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69122
+  legacy_md_filename: Payments FAQ.md
+- source_id: G202073180
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202073180
+  legacy_md_filename: Payments Guidelines and Transaction Processing Services.md
+- source_id: G200885400
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200885400
+  legacy_md_filename: Payments Reports.md
+- source_id: G201468470
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468470
+  legacy_md_filename: Payments for global accounts.md
+- source_id: G69038
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69038
+  legacy_md_filename: Payments tasks and tools.md
+- source_id: G211
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G211
+  legacy_md_filename: Payments.md
+- source_id: G40571
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G40571
+  legacy_md_filename: Pending Orders.md
+- source_id: G8TPCFJRDFPKAZ6M
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8TPCFJRDFPKAZ6M
+  legacy_md_filename: Peritem selling fees.md
+- source_id: GGQSHDR5BYTCWX42
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGQSHDR5BYTCWX42
+  legacy_md_filename: Phone Verification.md
+- source_id: G201817830
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201817830
+  legacy_md_filename: Policies for Amazon Handmade returns refunds restocking fees and cancellations.md
+- source_id: GQ5DSES264XVXNX7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GQ5DSES264XVXNX7
+  legacy_md_filename: Policies included in Account Health Rating.md
+- source_id: GMJFAN8FZ6T4EYUY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMJFAN8FZ6T4EYUY
+  legacy_md_filename: Potential Sales Lift.md
+- source_id: G202105450
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202105450
+  legacy_md_filename: Potential duplicates and split variations.md
+- source_id: G201503640
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201503640
+  legacy_md_filename: Premium Shipping program policy.md
+- source_id: G202072200
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202072200
+  legacy_md_filename: Prepaid returns for sellerfulfilled orders.md
+- source_id: G8ZDWEJB9Z9YPFQ8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8ZDWEJB9Z9YPFQ8
+  legacy_md_filename: Prepare for the Holiday Season.md
+- source_id: GCRVNRBZBVGBK543
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GCRVNRBZBVGBK543
+  legacy_md_filename: Prevent an Atoz Guarantee claim.md
+- source_id: G7F8CQ4EJ5YA4272
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7F8CQ4EJ5YA4272
+  legacy_md_filename: Price discounts.md
+- source_id: G201618190
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201618190
+  legacy_md_filename: Price per unit requirements.md
+- source_id: G62551
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G62551
+  legacy_md_filename: Price your item.md
+- source_id: GSTH6YN3BR8XNWBW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GSTH6YN3BR8XNWBW
+  legacy_md_filename: Pricing Health.md
+- source_id: GS9A4Q8K4Q6KT8TV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GS9A4Q8K4Q6KT8TV
+  legacy_md_filename: Pricing status.md
+- source_id: GBHA9ZYCUHLNQT8F
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBHA9ZYCUHLNQT8F
+  legacy_md_filename: Prime Day Small Business Promotion Sweepstakes.md
+- source_id: GB5KQ2GS6DMQA7RC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GB5KQ2GS6DMQA7RC
+  legacy_md_filename: Prime Day Small Business Promotions FAQ.md
+- source_id: GM2ADTH3XH3A5N57
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM2ADTH3XH3A5N57
+  legacy_md_filename: Prime Day readiness playbook.md
+- source_id: GBJGLGMYML2BRNGV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBJGLGMYML2BRNGV
+  legacy_md_filename: Prime Launches program terms.md
+- source_id: '200442350'
+  url: https://sellercentral.amazon.com/gp/help/external/200442350
+  legacy_md_filename: Product Bundling Policy.md
+- source_id: G200317520
+  url: https://sellercentral.amazon.com/gp/help/external/G200317520
+  legacy_md_filename: Product ID GTIN requirements by category.md
+- source_id: GNJ4YRTXWLMBY38U
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GNJ4YRTXWLMBY38U
+  legacy_md_filename: Product Opportunity Explorer.md
+- source_id: G200390640
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200390640
+  legacy_md_filename: Product detail page rules.md
+- source_id: G51
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G51
+  legacy_md_filename: Product detail pages and offers.md
+- source_id: G200986880
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200986880
+  legacy_md_filename: Product feeds overview.md
+- source_id: G1881
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G1881
+  legacy_md_filename: Product image guide.md
+- source_id: G200986900
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200986900
+  legacy_md_filename: Product images.md
+- source_id: G200270100
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200270100
+  legacy_md_filename: Product page style guides.md
+- source_id: GRD4EMBNNW3P47GH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GRD4EMBNNW3P47GH
+  legacy_md_filename: Product safety alerts recalls stop sales and market withdrawal policy for seller.md
+- source_id: GG5KW835AHDJCH8W
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GG5KW835AHDJCH8W
+  legacy_md_filename: Product size tiers.md
+- source_id: GYTR6SYGFA5E3EQC
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYTR6SYGFA5E3EQC
+  legacy_md_filename: Product title requirements and guidelines.md
+- source_id: GVHT3TKQTDRKNLJW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GVHT3TKQTDRKNLJW
+  legacy_md_filename: Productlevel shipping preferences.md
+- source_id: G8CXLSH94WNPB9R4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8CXLSH94WNPB9R4
+  legacy_md_filename: Profit Analytics.md
+- source_id: G521
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G521
+  legacy_md_filename: Program Policies.md
+- source_id: G200386250
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200386250
+  legacy_md_filename: Prohibited seller activities and actions policy.md
+- source_id: '200453160'
+  url: https://sellercentral.amazon.com/gp/help/external/200453160
+  legacy_md_filename: Promotions Report.md
+- source_id: GASP7CFPVS9UCWKR
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GASP7CFPVS9UCWKR
+  legacy_md_filename: Providing Country of Origin for goods shipped crossborder to customers in the EU.md
+- source_id: G8K5K99JHR3ACAXM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8K5K99JHR3ACAXM
+  legacy_md_filename: Qualify for Compact by Design.md
+- source_id: G4C9SLZZ2EG4AR8B
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4C9SLZZ2EG4AR8B
+  legacy_md_filename: Qualify to Made in France  Fabriqué en France.md
+- source_id: GA67MCULL8TFREGA
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GA67MCULL8TFREGA
+  legacy_md_filename: Recalled products information.md
+- source_id: '200688550'
+  url: https://sellercentral.amazon.com/gp/help/external/200688550
+  legacy_md_filename: Recommended Removal Report.md
+- source_id: GRRJCFXD6474GRLY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GRRJCFXD6474GRLY
+  legacy_md_filename: Referral fees reimbursement policy.md
+- source_id: GTG4BAWSY39Z98Z3
+  url: https://sellercentral.amazon.com/gp/help/external/GTG4BAWSY39Z98Z3
+  legacy_md_filename: Referral fees.md
+- source_id: GDC3U6FWF4JJJJC7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDC3U6FWF4JJJJC7
+  legacy_md_filename: Refund administration fee.md
+- source_id: GYLYQWNG8LZ9JNJP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYLYQWNG8LZ9JNJP
+  legacy_md_filename: Refund at First Scan for sellerfulfilled returns.md
+- source_id: G201725630
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201725630
+  legacy_md_filename: Refund options.md
+- source_id: G8DM5548X3TZMVSZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8DM5548X3TZMVSZ
+  legacy_md_filename: Registration for Amazon Accelerate 2025 is now open.md
+- source_id: G201468460
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468460
+  legacy_md_filename: Registration requirements by store.md
+- source_id: G202175000
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202175000
+  legacy_md_filename: Reimbursement for sellerfulfilled orders.md
+- source_id: G200732720
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200732720
+  legacy_md_filename: Reimbursements report overview.md
+- source_id: GF5ES9LFB2RNU6R8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GF5ES9LFB2RNU6R8
+  legacy_md_filename: Relist a product that is Inactive Closed  Inactive Listings.md
+- source_id: G2YC8BRR324G39TY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2YC8BRR324G39TY
+  legacy_md_filename: Relisting Inactive Handmade listings.md
+- source_id: GFXPN9K5RBL3LAWY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFXPN9K5RBL3LAWY
+  legacy_md_filename: Remap listing to ASIN.md
+- source_id: G5P3CDUHZWSZLXLB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5P3CDUHZWSZLXLB
+  legacy_md_filename: Remote Fulfillment with FBA.md
+- source_id: '200989100'
+  url: https://sellercentral.amazon.com/gp/help/external/200989100
+  legacy_md_filename: Removal Shipment Detail Report.md
+- source_id: '200989110'
+  url: https://sellercentral.amazon.com/gp/help/external/200989110
+  legacy_md_filename: Removal order detail report overview.md
+- source_id: '200678710'
+  url: https://sellercentral.amazon.com/gp/help/external/200678710
+  legacy_md_filename: Remove inventory automatically.md
+- source_id: '201436560'
+  url: https://sellercentral.amazon.com/gp/help/external/201436560
+  legacy_md_filename: Remove inventory from a fulfillment center.md
+- source_id: '200721270'
+  url: https://sellercentral.amazon.com/gp/help/external/200721270
+  legacy_md_filename: Remove inventory in bulk.md
+- source_id: G200280650
+  url: https://sellercentral.amazon.com/gp/help/external/G200280650
+  legacy_md_filename: Remove inventory overview.md
+- source_id: GQ7JD2CPGVTZV2WH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GQ7JD2CPGVTZV2WH
+  legacy_md_filename: Rental book service fee.md
+- source_id: '200453300'
+  url: https://sellercentral.amazon.com/gp/help/external/200453300
+  legacy_md_filename: Replacements report overview.md
+- source_id: G200285580
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200285580
+  legacy_md_filename: Replenishment Alerts.md
+- source_id: G200444420
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200444420
+  legacy_md_filename: Report a Violation.md
+- source_id: '202000820'
+  url: https://sellercentral.amazon.com/gp/help/external/202000820
+  legacy_md_filename: Required removals.md
+- source_id: GHTLL7GRVSKV5PTU
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHTLL7GRVSKV5PTU
+  legacy_md_filename: Required vehicle information.md
+- source_id: G200253000
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200253000
+  legacy_md_filename: Requirements and Restrictions.md
+- source_id: G201723860
+  url: https://sellercentral.amazon.com/gp/help/external/G201723860
+  legacy_md_filename: Reserved Inventory report.md
+- source_id: GEYJTVJPWRYUTADQ
+  url: https://sellercentral.amazon.com/gp/help/external/GEYJTVJPWRYUTADQ
+  legacy_md_filename: Resolve stranded inventory issues.md
+- source_id: G202145040
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202145040
+  legacy_md_filename: Respond to a chargeback claim.md
+- source_id: G1781
+  url: https://sellercentral.amazon.com/gp/help/external/G1781
+  legacy_md_filename: Respond to an Atoz Guarantee claim.md
+- source_id: '202105670'
+  url: https://sellercentral.amazon.com/gp/help/external/202105670
+  legacy_md_filename: Restock Inventory report.md
+- source_id: G201634550
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201634550
+  legacy_md_filename: Restock Inventory.md
+- source_id: GM5TBTKLBLXWMJJ3
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GM5TBTKLBLXWMJJ3
+  legacy_md_filename: Restock pilot program.md
+- source_id: GRG6KMB257N2XXNQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GRG6KMB257N2XXNQ
+  legacy_md_filename: Restock recommendation.md
+- source_id: G200164330
+  url: https://sellercentral.amazon.com/gp/help/external/G200164330
+  legacy_md_filename: Restricted products.md
+- source_id: G201711720
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201711720
+  legacy_md_filename: Return address settings.md
+- source_id: G5A85XXCZDQ48A8T
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G5A85XXCZDQ48A8T
+  legacy_md_filename: Returns FAQ.md
+- source_id: G64LS955WNFT6EDP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G64LS955WNFT6EDP
+  legacy_md_filename: Returns processing fee.md
+- source_id: G200194300
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200194300
+  legacy_md_filename: Review a Processing Report.md
+- source_id: G200316110
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200316110
+  legacy_md_filename: Review category requirements.md
+- source_id: G7T47V48CGE6FS32
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7T47V48CGE6FS32
+  legacy_md_filename: Review listing changes.md
+- source_id: G611
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G611
+  legacy_md_filename: Review my inventory results.md
+- source_id: GYYH9SLHSTHKT3CZ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYYH9SLHSTHKT3CZ
+  legacy_md_filename: Rufus our AIpowered conversational shopping assistant.md
+- source_id: GG7X74YD2PZLZN9R
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GG7X74YD2PZLZN9R
+  legacy_md_filename: Sales reports for virtual bundles and virtual multipacks.md
+- source_id: G28151
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G28151
+  legacy_md_filename: Search orders.md
+- source_id: GNFDSYQP7TR7SPUW
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GNFDSYQP7TR7SPUW
+  legacy_md_filename: Sell Globally experience FAQ.md
+- source_id: GDYZBUHVDD66VHVR
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDYZBUHVDD66VHVR
+  legacy_md_filename: Sell Globally experience.md
+- source_id: '200386270'
+  url: https://sellercentral.amazon.com/gp/help/external/200386270
+  legacy_md_filename: Sell software.md
+- source_id: GLYJTRGQCYNYAZS9
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLYJTRGQCYNYAZS9
+  legacy_md_filename: Seller Assistant  Seller Centrals conversational assistant.md
+- source_id: G200587810
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200587810
+  legacy_md_filename: Seller Best Practices.md
+- source_id: G202162720
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202162720
+  legacy_md_filename: Seller Fee Tax Invoice.md
+- source_id: G201812230
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201812230
+  legacy_md_filename: Seller Fulfilled Prime.md
+- source_id: GG9T9WKTBG2NJST7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GG9T9WKTBG2NJST7
+  legacy_md_filename: Seller Identity Verification.md
+- source_id: GZN5DX64LP2QYZ69
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZN5DX64LP2QYZ69
+  legacy_md_filename: Seller Lending program.md
+- source_id: GC5SGGCDDP3ZDNZM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GC5SGGCDDP3ZDNZM
+  legacy_md_filename: Seller Messaging Assistant Overview.md
+- source_id: GW57DZACAZGNREVQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GW57DZACAZGNREVQ
+  legacy_md_filename: Seller Wallet.md
+- source_id: G841
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G841
+  legacy_md_filename: Seller information displayed to buyers.md
+- source_id: GW5QB6H8Q8CHA483
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GW5QB6H8Q8CHA483
+  legacy_md_filename: Seller performance review.md
+- source_id: G69126
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69126
+  legacy_md_filename: Sellerfulfilled returns refunds cancellations and claims.md
+- source_id: G201484410
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201484410
+  legacy_md_filename: Selling Services Terms.md
+- source_id: G201840340
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201840340
+  legacy_md_filename: Selling Services on Amazon Policies.md
+- source_id: G200785030
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200785030
+  legacy_md_filename: Selling cell phones and cell phone accessories.md
+- source_id: G201756390
+  url: https://sellercentral.amazon.com/gp/help/external/G201756390
+  legacy_md_filename: Selling from India.md
+- source_id: GGH3QLLAE3N8PM83
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGH3QLLAE3N8PM83
+  legacy_md_filename: Selling fullsize appliances.md
+- source_id: G201762480
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201762480
+  legacy_md_filename: Selling on Amazon Business fee schedule.md
+- source_id: '200336920'
+  url: https://sellercentral.amazon.com/gp/help/external/200336920
+  legacy_md_filename: Selling on Amazon fee schedule.md
+- source_id: G6F7CN3EQS7MEGCN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G6F7CN3EQS7MEGCN
+  legacy_md_filename: Selling on Amazon fees guide.md
+- source_id: G69036
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69036
+  legacy_md_filename: Selling on Amazon reference.md
+- source_id: G200421970
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200421970
+  legacy_md_filename: Selling on Amazon.md
+- source_id: G64491
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G64491
+  legacy_md_filename: Selling plan comparison.md
+- source_id: G1801
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G1801
+  legacy_md_filename: Selling policies and seller code of conduct.md
+- source_id: G201021820
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201021820
+  legacy_md_filename: Send FBA inventory to Amazon.md
+- source_id: GJWALJCN6JKWJX5A
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJWALJCN6JKWJX5A
+  legacy_md_filename: Send to Amazon 2D barcodes for box content information.md
+- source_id: GP29SYECJZGJ9XMR
+  url: https://sellercentral.amazon.com/gp/help/external/GP29SYECJZGJ9XMR
+  legacy_md_filename: Send to Amazon Change or cancel your shipment.md
+- source_id: G8SXKYFWPG6DAW6T
+  url: https://sellercentral.amazon.com/gp/help/external/G8SXKYFWPG6DAW6T
+  legacy_md_filename: Send to Amazon Choose inventory to send.md
+- source_id: GBJBZ65P2LHZM2DG
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBJBZ65P2LHZM2DG
+  legacy_md_filename: Send to Amazon Confirm carrier and pallet information.md
+- source_id: GWC4BVUFCZ2FKHQW
+  url: https://sellercentral.amazon.com/gp/help/external/GWC4BVUFCZ2FKHQW
+  legacy_md_filename: Send to Amazon Confirm shipping.md
+- source_id: G4ZKN4DCCXL5XQWJ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G4ZKN4DCCXL5XQWJ
+  legacy_md_filename: Send to Amazon Delivery Window  with standard calendar weeks.md
+- source_id: GJUACWKGZCE5M7BB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJUACWKGZCE5M7BB
+  legacy_md_filename: Send to Amazon General Troubleshooting.md
+- source_id: GJLY8458DZ7V3F7K
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJLY8458DZ7V3F7K
+  legacy_md_filename: Send to Amazon Merge shipments.md
+- source_id: GQ2HY393LHXF3GZN
+  url: https://sellercentral.amazon.com/gp/help/external/GQ2HY393LHXF3GZN
+  legacy_md_filename: Send to Amazon Pack individual units.md
+- source_id: GCUH6KKZA6PRA4E7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GCUH6KKZA6PRA4E7
+  legacy_md_filename: Send to Amazon Print box labels.md
+- source_id: GV42EVAG2U5ACZAQ
+  url: https://sellercentral.amazon.com/gp/help/external/GV42EVAG2U5ACZAQ
+  legacy_md_filename: Send to Amazon Print pallet labels.md
+- source_id: GJEUHB8MF4M8Q6K4
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJEUHB8MF4M8Q6K4
+  legacy_md_filename: Send to Amazon ShipTrack Carrier.md
+- source_id: GWKTQ4PADXXT58JY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWKTQ4PADXXT58JY
+  legacy_md_filename: Send to Amazon Tracking details.md
+- source_id: GQRHXMHF4DLBSJJD
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GQRHXMHF4DLBSJJD
+  legacy_md_filename: Serial number tracking for FBA shipments to buyers.md
+- source_id: G901
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G901
+  legacy_md_filename: Set and edit user permissions.md
+- source_id: G201841320
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201841320
+  legacy_md_filename: Set the default shipping address.md
+- source_id: GNVVBDJCTV3RSY3D
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GNVVBDJCTV3RSY3D
+  legacy_md_filename: Set up Buy with Prime.md
+- source_id: '201706700'
+  url: https://sellercentral.amazon.com/gp/help/external/201706700
+  legacy_md_filename: Set up tax calculation services.md
+- source_id: G201896150
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201896150
+  legacy_md_filename: Set up your account information.md
+- source_id: GE7UVMSSJREL55WA
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GE7UVMSSJREL55WA
+  legacy_md_filename: Set your Manage Inventory page preferences.md
+- source_id: '201841310'
+  url: https://sellercentral.amazon.com/gp/help/external/201841310
+  legacy_md_filename: Set your shipping rates.md
+- source_id: G201468450
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468450
+  legacy_md_filename: Setting up your Amazon Global Selling Account.md
+- source_id: G38DDUTSB8YYH8CH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G38DDUTSB8YYH8CH
+  legacy_md_filename: Sharing promo codes with Amazon influencers and associates.md
+- source_id: G200384330
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200384330
+  legacy_md_filename: Ship Books Music Video and DVD BMVD products.md
+- source_id: G201468490
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468490
+  legacy_md_filename: Ship and fulfill with Amazon Global Selling.md
+- source_id: G200141420
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200141420
+  legacy_md_filename: Ship products to Amazon.md
+- source_id: GUZFHG4ST4FXH267
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUZFHG4ST4FXH267
+  legacy_md_filename: Shipment Performance dashboard.md
+- source_id: GMMHQDYGPKV94GHV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMMHQDYGPKV94GHV
+  legacy_md_filename: Shipping Calendar Guidelines.md
+- source_id: GXT2Z9KP25F6C5XS
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GXT2Z9KP25F6C5XS
+  legacy_md_filename: Shipping service preferences for sellerfulfilled orders.md
+- source_id: G201051980
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201051980
+  legacy_md_filename: Shipping settings for individual sellers.md
+- source_id: G202078950
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202078950
+  legacy_md_filename: Shipping to Mexico through Buy Shipping Services.md
+- source_id: GEVWP48HPBLEFJEY
+  url: https://sellercentral.amazon.com/gp/help/external/GEVWP48HPBLEFJEY
+  legacy_md_filename: Shipping weight.md
+- source_id: GDTDMAWM8FG2CX6U
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GDTDMAWM8FG2CX6U
+  legacy_md_filename: Ships in Product Packaging SIPP.md
+- source_id: GGUZWLQKEGJW4QCK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GGUZWLQKEGJW4QCK
+  legacy_md_filename: ShiptoStore Policies.md
+- source_id: GHV3AEGYL9VHKGUQ
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GHV3AEGYL9VHKGUQ
+  legacy_md_filename: ShiptoStore Terms.md
+- source_id: GUZBYWTTVULY6C9Y
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUZBYWTTVULY6C9Y
+  legacy_md_filename: Shoppable video guide.md
+- source_id: G27XM55CQM3SBMD2
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G27XM55CQM3SBMD2
+  legacy_md_filename: Show a reference price on your products by providing a List Price.md
+- source_id: GCME8WC7EKJYGGBS
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GCME8WC7EKJYGGBS
+  legacy_md_filename: Similar product pricing.md
+- source_id: GNLQSJBH428VYL69
+  url: https://sellercentral.amazon.com/gp/help/external/GNLQSJBH428VYL69
+  legacy_md_filename: Singapore Goods and Services Tax GST frequently asked questions.md
+- source_id: G202095190
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202095190
+  legacy_md_filename: Single signon.md
+- source_id: GZJRCRLWW7WKKDAH
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZJRCRLWW7WKKDAH
+  legacy_md_filename: Size normalization FAQ.md
+- source_id: G200280260
+  url: https://sellercentral.amazon.com/gp/help/external/G200280260
+  legacy_md_filename: Smallparcel delivery to Amazon.md
+- source_id: GPBBZR3MDYRS8L36
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GPBBZR3MDYRS8L36
+  legacy_md_filename: Special handling fee.md
+- source_id: G200800780
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200800780
+  legacy_md_filename: Sports Collectibles.md
+- source_id: G201797950
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201797950
+  legacy_md_filename: Standards for Brands Selling in the Amazon Store.md
+- source_id: G201901600
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201901600
+  legacy_md_filename: Start listing products.md
+- source_id: G202141230
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202141230
+  legacy_md_filename: Start selling Advertise.md
+- source_id: G202141220
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202141220
+  legacy_md_filename: Start selling List and manage inventory.md
+- source_id: G202141240
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202141240
+  legacy_md_filename: Start selling Manage orders and payments.md
+- source_id: G202141250
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202141250
+  legacy_md_filename: Start selling Monitor feedback and performance.md
+- source_id: G69064
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G69064
+  legacy_md_filename: Start selling.md
+- source_id: G200216110
+  url: https://sellercentral.amazon.com/gp/help/external/G200216110
+  legacy_md_filename: Stop selling a product.md
+- source_id: G201436600
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201436600
+  legacy_md_filename: Stranded inventory overview.md
+- source_id: '201835130'
+  url: https://sellercentral.amazon.com/gp/help/external/201835130
+  legacy_md_filename: Stranded inventory report.md
+- source_id: GKQ8DGGU529BJJ7E
+  url: https://sellercentral.amazon.com/gp/help/external/GKQ8DGGU529BJJ7E
+  legacy_md_filename: Stranded inventory required removals.md
+- source_id: G88G864Q9ZFM5KSB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G88G864Q9ZFM5KSB
+  legacy_md_filename: Strategic Account Services Account Management Program Terms.md
+- source_id: G201620110
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201620110
+  legacy_md_filename: Subscribe  Save for sellers.md
+- source_id: G202072540
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202072540
+  legacy_md_filename: Subscribe With Amazon Program Agreement.md
+- source_id: G200335450
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200335450
+  legacy_md_filename: Suggest changes to your product detail page.md
+- source_id: G202111990
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202111990
+  legacy_md_filename: Supply chain standards.md
+- source_id: G200898440
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200898440
+  legacy_md_filename: Suppressed listings.md
+- source_id: GZFGG5F9AT622Z7G
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZFGG5F9AT622Z7G
+  legacy_md_filename: Target Inventory for Peak Success TIPS.md
+- source_id: '200787220'
+  url: https://sellercentral.amazon.com/gp/help/external/200787220
+  legacy_md_filename: Tax Calculation Services Terms.md
+- source_id: '200852210'
+  url: https://sellercentral.amazon.com/gp/help/external/200852210
+  legacy_md_filename: Tax Document Library definitions.md
+- source_id: G30394
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G30394
+  legacy_md_filename: Tax Registration Agreement VAT or GST.md
+- source_id: G200787660
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200787660
+  legacy_md_filename: Tax calculation services.md
+- source_id: GB2QPPH8MNH8FPB8
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GB2QPPH8MNH8FPB8
+  legacy_md_filename: Tax information.md
+- source_id: GZVGU4JR7Z75BB5E
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GZVGU4JR7Z75BB5E
+  legacy_md_filename: Tax on Remote Services FAQ.md
+- source_id: G200405820
+  url: https://sellercentral.amazon.com/gp/help/external/G200405820
+  legacy_md_filename: Tax policies.md
+- source_id: G201468380
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468380
+  legacy_md_filename: Taxes and regulations for Amazon Global Selling.md
+- source_id: G201500390
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201500390
+  legacy_md_filename: The Basics of Selling on Amazon.md
+- source_id: GFG4VRQK7CQLGRTM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFG4VRQK7CQLGRTM
+  legacy_md_filename: The New Seller Guide program and benefits.md
+- source_id: G200897090
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200897090
+  legacy_md_filename: The Urgent Help Needed Option.md
+- source_id: GUW88PRBDJPQ5M5N
+  url: https://sellercentral.amazon.com/gp/help/external/GUW88PRBDJPQ5M5N
+  legacy_md_filename: The dangerous goods DG status report.md
+- source_id: G200200040
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200200040
+  legacy_md_filename: The order process.md
+- source_id: GLE38MS2KT4LPEZY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLE38MS2KT4LPEZY
+  legacy_md_filename: Title length criteria exceptions.md
+- source_id: G201022330
+  url: https://sellercentral.amazon.com/gp/help/external/G201022330
+  legacy_md_filename: Track your shipments Shipping Queue and Shipment summary.md
+- source_id: GY39J4HS7TZYXZJK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GY39J4HS7TZYXZJK
+  legacy_md_filename: Troubleshoot inventory file upload errors.md
+- source_id: G200216120
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200216120
+  legacy_md_filename: Troubleshoot issues with product listings.md
+- source_id: G7A839WDJKYVT627
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7A839WDJKYVT627
+  legacy_md_filename: Troubleshoot listings deactivated due to suspected intellectualproperty violatio.md
+- source_id: G2BTQWUUDS3RV7WB
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G2BTQWUUDS3RV7WB
+  legacy_md_filename: Troubleshooting FAQ for virtual product bundles.md
+- source_id: G200280270
+  url: https://sellercentral.amazon.com/gp/help/external/G200280270
+  legacy_md_filename: Truckload delivery to Amazon.md
+- source_id: G202110760
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202110760
+  legacy_md_filename: TwoStep Verification.md
+- source_id: G202153510
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202153510
+  legacy_md_filename: Twostep verification FAQ.md
+- source_id: G200492770
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200492770
+  legacy_md_filename: UPC Guidelines for multipacks.md
+- source_id: GYRFZZRZDJTWU8FL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GYRFZZRZDJTWU8FL
+  legacy_md_filename: UPS Ground Saver Terms and Conditions.md
+- source_id: G200663290
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200663290
+  legacy_md_filename: US Income Reporting  Tax Identity Collection FAQ.md
+- source_id: G7VYHGJ8ZT2M58CP
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G7VYHGJ8ZT2M58CP
+  legacy_md_filename: US Marketplace Tax and Regulatory Fee Collection FAQ.md
+- source_id: G201686950
+  url: https://sellercentral.amazon.com/gp/help/external/G201686950
+  legacy_md_filename: Unblock listings that have pricing errors.md
+- source_id: GNJSJ7GP26PD5XWJ
+  url: https://sellercentral.amazon.com/gp/help/external/GNJSJ7GP26PD5XWJ
+  legacy_md_filename: Understanding fee categories.md
+- source_id: GJZJNMG4UX3DXSGV
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GJZJNMG4UX3DXSGV
+  legacy_md_filename: Unify global accounts.md
+- source_id: GE3VC5FGJE9TYJKM
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GE3VC5FGJE9TYJKM
+  legacy_md_filename: Unit weight.md
+- source_id: GWSXGJDRLV4TWEQS
+  url: https://sellercentral.amazon.com/gp/help/external/GWSXGJDRLV4TWEQS
+  legacy_md_filename: United Arab Emirates Value Added Tax VAT FAQ.md
+- source_id: G201468390
+  url: https://sellercentral.amazon.com/gp/help/external/G201468390
+  legacy_md_filename: United States Tax and Regulatory Considerations.md
+- source_id: GFJTFMCXPRQ5GHUK
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GFJTFMCXPRQ5GHUK
+  legacy_md_filename: Unlock marketing opportunities.md
+- source_id: GH4YYXNDRW9BSZEN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GH4YYXNDRW9BSZEN
+  legacy_md_filename: Unsuitable inventory investigations policy.md
+- source_id: G191
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G191
+  legacy_md_filename: Update account information.md
+- source_id: G202131360
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202131360
+  legacy_md_filename: Update credit or debit card information.md
+- source_id: G201836910
+  url: https://sellercentral.amazon.com/gp/help/external/G201836910
+  legacy_md_filename: Update your listing.md
+- source_id: GUGPCYWV2P8KVFUT
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GUGPCYWV2P8KVFUT
+  legacy_md_filename: Upload images in Image Manager.md
+- source_id: G601
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G601
+  legacy_md_filename: Upload your inventory file.md
+- source_id: '200202220'
+  url: https://sellercentral.amazon.com/help/hub/reference/external/200202220
+  legacy_md_filename: Use Buy Shipping services.md
+- source_id: GB3NRUQMHWRX4WJL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GB3NRUQMHWRX4WJL
+  legacy_md_filename: Use a USB security key for TwoStep Verification.md
+- source_id: G202110780
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G202110780
+  legacy_md_filename: Use an authenticator app for TwoStep Verification.md
+- source_id: '200141480'
+  url: https://sellercentral.amazon.com/gp/help/external/200141480
+  legacy_md_filename: Use manufacturer barcodes for FBA.md
+- source_id: GMLF63BKRULW6UME
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GMLF63BKRULW6UME
+  legacy_md_filename: Use of Amazon trademarks in seller display names.md
+- source_id: G23501
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G23501
+  legacy_md_filename: Use search terms effectively.md
+- source_id: G7S55VWDZ9SQCUEX
+  url: https://sellercentral.amazon.com/gp/help/external/G7S55VWDZ9SQCUEX
+  legacy_md_filename: Using Hyperwallet with Amazon.md
+- source_id: G201602700
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201602700
+  legacy_md_filename: Using Your Amazon Payments Business Account.md
+- source_id: G95W67HSJ4A386EN
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G95W67HSJ4A386EN
+  legacy_md_filename: Using your preferred language in your inventory File template.md
+- source_id: GWG59JWZKCJ8ZDK6
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GWG59JWZKCJ8ZDK6
+  legacy_md_filename: VAT registration.md
+- source_id: GLE2KYT2UVPMTYGS
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GLE2KYT2UVPMTYGS
+  legacy_md_filename: Valid UPCs.md
+- source_id: G201817070
+  url: https://sellercentral.amazon.com/gp/help/external/G201817070
+  legacy_md_filename: Valid tracking rate VTR.md
+- source_id: GBEP5S4XFH4RPZLF
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GBEP5S4XFH4RPZLF
+  legacy_md_filename: Valuerecovery services.md
+- source_id: G201607580
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201607580
+  legacy_md_filename: Video DVD  Bluray.md
+- source_id: G8GKMW7345AV3LCY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G8GKMW7345AV3LCY
+  legacy_md_filename: View your inventory.md
+- source_id: G201724070
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201724070
+  legacy_md_filename: View your orders.md
+- source_id: GK2U2WZY6GSSTJZY
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GK2U2WZY6GSSTJZY
+  legacy_md_filename: Virtual multipacks.md
+- source_id: G87HAE6PMKKM23Z7
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G87HAE6PMKKM23Z7
+  legacy_md_filename: Virtual product bundles.md
+- source_id: GXMA2QU3JZTG8JNL
+  url: https://sellercentral.amazon.com/help/hub/reference/external/GXMA2QU3JZTG8JNL
+  legacy_md_filename: Warning code 18367 Product type modified by Amazon.md
+- source_id: G200316090
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200316090
+  legacy_md_filename: Watches.md
+- source_id: G201420410
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201420410
+  legacy_md_filename: What do I need to know before using inventory files.md
+- source_id: G200399460
+  url: https://sellercentral.amazon.com/gp/help/external/G200399460
+  legacy_md_filename: What is the Individual selling plan.md
+- source_id: G201468340
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201468340
+  legacy_md_filename: Where and what to sell with Amazon Global Selling.md
+- source_id: G11381
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G11381
+  legacy_md_filename: Your Information  Policies page.md
+- source_id: G48321
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G48321
+  legacy_md_filename: Your merchant token.md
+- source_id: G201724060
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201724060
+  legacy_md_filename: Your orders list.md
+- source_id: G200612770
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G200612770
+  legacy_md_filename: 亚马逊 登录.md
+- source_id: G201474070
+  url: https://sellercentral.amazon.com/help/hub/reference/external/G201474070
+  legacy_md_filename: 亚马逊.md

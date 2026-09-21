@@ -107,3 +107,9 @@ traces.jsonl
 .env.*.local
 secrets.yaml
 nonexistent_traces.jsonl/
+
+# SQLite sidecar files — transient, never belong in the repo
+*.db-shm
+*.db-wal
+*.sqlite3-shm
+*.sqlite3-wal
