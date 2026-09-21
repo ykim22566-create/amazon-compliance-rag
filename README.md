@@ -2,7 +2,7 @@
 
 A vertical retrieval system over Amazon Seller Central's compliance documentation, exposed to AI assistants through the Model Context Protocol (MCP).
 
-**[▶ Live demo](#)** · **[Architecture](docs/architecture.md)** · **[Evaluation](docs/evaluation.md)**
+**[Architecture](docs/architecture.md)** · **[Evaluation](docs/evaluation.md)** · **[Run it](#running-locally)**
 
 ---
 
@@ -29,7 +29,7 @@ The result is that a seller asking *"when does the 3.5% fuel surcharge take effe
 
 Measured on a 15-question hand-labelled gold set spanning fees, tax, returns, account health, appeals, inventory, brand and dangerous goods. Each question is scored on four dimensions (0–2 each): precision, source attribution, freshness, authority.
 
-| | This system | Bare LLM baseline |
+| | This system | Same model, no retrieval |
 |---|---|---|
 | **Overall** | **102/120 (85.0%)** | 83/120 (69.2%) |
 | Precision | 22/30 (73%) | 20/30 (67%) |
@@ -37,7 +37,7 @@ Measured on a 15-question hand-labelled gold set spanning fees, tax, returns, ac
 | Freshness | 23/30 (77%) | 20/30 (67%) |
 | Authority | 30/30 (100%) | 26/30 (87%) |
 
-The gap is widest on **source attribution** — which is the point. The baseline answers plausibly but cannot cite the page it came from, and on fee questions it frequently quotes a superseded rate card.
+The baseline is the same model with retrieval switched off, so the gap isolates what retrieval contributes rather than confounding it with a model difference. It is widest on **source attribution** — which is the point: the baseline answers plausibly but cannot cite the page it came from, and on fee questions it frequently quotes a superseded rate card.
 
 Retrieval-only metrics (10-question subset): Hit@5 70%, Hit@10 80%, MRR 0.667. LLM reranking improves MRR (0.564 → 0.667) without changing hit rate — it reorders the candidate set rather than recalling more of it.
 
@@ -63,7 +63,7 @@ Add to your Claude Desktop config:
 {
   "mcpServers": {
     "amazon-compliance-rag": {
-      "command": "python",
+      "command": ".venv/bin/python",
       "args": ["main.py"],
       "cwd": "/absolute/path/to/amazon-compliance-rag",
       "env": {
@@ -79,27 +79,35 @@ Then ask Claude about Amazon fees and it will retrieve from the corpus rather th
 
 ## Running locally
 
+The corpus (Chroma + BM25 index) ships with the repo through Git LFS, so install
+LFS before cloning — otherwise the index files arrive as pointer stubs and
+retrieval comes back empty.
+
 ```bash
-pip install -e .
+git lfs install
+git clone https://github.com/ykim22566-create/amazon-compliance-rag.git
+cd amazon-compliance-rag
+
+python3 -m venv .venv && ./.venv/bin/pip install -e .
 export DEEPSEEK_API_KEY=... SILICONFLOW_API_KEY=...
 ```
 
-Web UI:
+Web UI — opens on the Amazon Compliance search page:
 
 ```bash
-streamlit run src/observability/dashboard/app.py
+./.venv/bin/streamlit run src/observability/dashboard/app.py
 ```
 
 Command line:
 
 ```bash
-python scripts/query.py --query "When does the 3.5% fuel surcharge take effect?" --collection amazon_compliance
+./.venv/bin/python scripts/query.py --query "When does the 3.5% fuel surcharge take effect?" --collection amazon_compliance
 ```
 
 MCP server:
 
 ```bash
-python main.py
+./.venv/bin/python main.py
 ```
 
 Credentials are read from the environment — `config/settings.yaml` holds `${DEEPSEEK_API_KEY}` / `${SILICONFLOW_API_KEY}` placeholders and never literal keys. A missing variable fails at startup with an explicit message rather than surfacing later as an opaque 401.
